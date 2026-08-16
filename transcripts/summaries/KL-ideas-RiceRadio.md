@@ -1,489 +1,651 @@
 # Summary of KL's Legal Ideas — RiceTVX / Stranger Than Fiction Transcripts
 
-This document summarizes KL's legal claims, arguments, and positions across 13 RiceTVX interview transcripts. The transcripts use timestamps without explicit speaker tags; KL is the primary educator/guest and Chris Rice is the host. Only KL's legal ideas are extracted below—host commentary, small talk, and sponsor reads are excluded.
+This document summarizes the legal claims, arguments, and positions of KL (aka "Mr. Beneficiary," aka "Dr. KL Beneficiary"), a recurring guest on RiceTVX's "Stranger Than Fiction" interview series, across all 13 transcripts in `transcripts/TXT/`. The transcripts use timestamps (`[0.0s - 22.9s]`) with no explicit speaker tags; KL is the primary educator/guest and Chris (RiceTVX host) is the interviewer. Only KL's legal/historical ideas are extracted below — Chris's own opinions, small talk, show logistics, and sponsor reads (Patreon, Rice Radio, Money Metals Exchange, etc.) are excluded. Citations and case names are reported exactly as KL states them; this pass does not attempt to verify or resolve them (that is the separate `citations-sidecar.md` pass). Repeated claims are noted once with a link+quote for every episode in which they recur, rather than being rewritten as separate entries. Contradictions and tensions are flagged inline at the point they arise, with a roll-up list at the end.
+
+Two files in the batch — **11** ("Unlearning The LIES About American History") and **13** ("He Cracked Every Layer of Reality") — despite their titles, contain no KL dialogue at all. Both are unrelated third-party YouTube video-essay narrations about Michio Kushi, the macrobiotics teacher/philosopher (archival Kushi lecture clips plus an outside narrator's commentary on yin-yang cosmology, meditation, and macrobiotic diet). They are excluded from this summary entirely; see the note at the end of the document.
 
 ---
 
 ## Two Governments / Two Jurisdictions
 
 ### Two parallel governments operating since 1789
-- **Claim:** America has always had two governments operating simultaneously: the Republic (land jurisdiction, Article 3) and the democracy/territory (sea jurisdiction, Article 1 and 2).
-- **Support:** Cites *U.S. v. Bevins* (1818), *Cohens v. Virginia* (1821), *Downs v. Bidwell* (1901), *Hooven & Allison v. Evatt* (1945), and *Miloszewski v. Sears* (1972).
+- **Claim:** America has always had two governments operating simultaneously: the Republic (civil government of the American nations/union states, land jurisdiction, Article 3) and the democracy/territory (the federal corporate government run out of D.C., sea/statutory jurisdiction, Articles 1 and 2). Neither replaced the other; both are still active, and an individual chooses which one governs them.
+- **Support:** Cites *U.S. v. Bevins* (1818), *Cohens/Collins v. Virginia* (1821), *Hooven & Allison v. Evatt* (1945), *Miloszewski v. Sears* (1972); HOA analogy for the federal "company."
 - **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "there are two governments in America, and there always have been from the very start, from 1789"
 - **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "We have two governments in America, one under the Constitution and a much greater one now that is not under the Constitution"
-- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "The current legislators could act for the republic or they could act for the democracy"
+- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "there's a democracy and there's a republic. They're both going on here today."
+- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "The current legislators could act for the republic or they could act for the democracy" / "the real Republic is...behind the current government"
 - **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "they've taken article one and two and put an umbrella over the nation"
 
 ### The federal government is a foreign HOA with limited enumerated powers
-- **Claim:** The federal government is a foreign company/corporation (like an HOA) hired by the states to perform 19 enumerated powers; it has no authority over the real man unless contracted.
-- **Support:** Compares it to a homeowners association that mows lawns and picks up garbage—limited services via contract only.
+- **Claim:** The federal government is a foreign company/corporation (like a homeowners' association) hired by the 13/50 states to perform ~19 enumerated powers the states couldn't or wouldn't do themselves (e.g., national defense). It is foreign to the union states and has no authority over the real man unless contracted.
+- **Support:** HOA analogy — hiring a company to mow the lawn doesn't give it authority over you absent a contract.
 - **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "that corporation, that federal government has no authority, no jurisdiction over the real man, unless we contract with them"
 - **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "the original federal government is really just an HOA and certain specific 19 enumerated powers"
 - **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "your FBI, CIA, FTA, all these things, they're unconstitutional. They were not part of the 19 enumerated powers"
+- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "the constitution gave 19 enumerated powers"
 
 ### Current states are municipal corporations under D.C.
-- **Claim:** The "state of X" (e.g., state of Illinois) is a body politic and municipal corporation, a political subdivision of D.C., not a geographical land-area; its law is Roman civil law.
-- **Support:** Cites 16 Stat. 419; states the current form is "seemingly Republican in form, but ultimately municipal."
+- **Claim:** The "state of X" (e.g., State of Illinois) is a body politic and municipal corporation, a political subdivision of D.C., not a geographical land area; its governing law is Roman civil law. It is "seemingly Republican in form, but ultimately municipal."
+- **Support:** Cites 16 Stat. 419.
 - **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "every such state is really just a body politic and not a geographical area... transmuted into a political subdivision of the District of Columbia, a municipal corporation"
 - **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "The states have been transformed into a political subdivision of the District of Columbia, which uses Roman civil law"
 
+### D.C./territorial jurisdiction has expanded to functionally cover the whole country
+- **Claim:** D.C. is a foreign territorial jurisdiction (KL analogizes it to "an island of Mexico" or "a franchise of Mexico"), not part of the union, and this "sea"/statutory jurisdiction has been extended to cover federal enclaves and effectively all 50 states through mechanisms like the Buck Act (1940) — schools, airports, post offices, and federal courthouses are all designated federal territory.
+- **Support:** Buck Act (1940); Adam Kokesh AR-15 arrest anecdote; federal-district-courthouse example; discussion (partial pushback, then partial agreement) with Chris re: Howard Freeman's "flaw in the Constitution" framing.
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "school zones are federal right under the Buck Act." / "all 50 states are part of the federal district jurisdiction."
+- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "Think of D.C. is actually like an island of Mexico. That's foreign to the 50 union states"
+- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "You got to go back to the 1940 Buck Act. The Buck Act states that they can make any... delineation... a federal property like schools."
+- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "you go back to the Buck Act of 1940...they can make these designations where a school is federal territory now" / "the United States, the corporate side is basically just Washington, D.C. extended"
+- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "The two jurisdictions are not really a flaw." / "they couldn't do away with the original constitution. They can't do away with Article Three."
+
+### Federalist/Anti-Federalist split as origin of big vs. small government
+- **Claim:** Hamilton (Federalist, wanting a large powerful central government like England) versus Jefferson/Adams (Anti-Federalist, wanting limited government with power held by the states) reflects the founding-era fight that set up the D.C. municipality.
+- **Support:** Historical narrative; recommends "The Documents of Revolution" and an 1840 "American Citizens Manual of Reference."
+- **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "Hamilton and Jefferson did not get along"
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) (same theme, framed as founding-era centralization debate)
+
+### Gradual, deliberate encroachment ("boiling the frog")
+- **Claim:** Loss of rights/status happened through slow, small, methodical legal changes over 200+ years, deliberately designed not to trigger resistance.
+- **Support:** Frog-in-boiling-water analogy.
+- **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "it's like the bully and frog analogy... if you slowly do these changes where you don't notice them, sooner or later, you're dead"
+
 ### Democracy as slavery
-- **Claim:** Democracy is the worst form of government—worse than monarchy—and was never the intent of the founding fathers; it functions as financial slavery because it separates people from their government.
-- **Support:** KL quotes founding fathers and contrasts democracy with the republic, stating democracy enables total government control via handouts.
-- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "democracy is slavery. If you want to be a slave, especially financially, then fine"
+- **Claim:** Democracy is the worst form of government — worse than monarchy — and was never the founders' intent; it functions as financial slavery because it separates people from their government and fosters total government control via handouts.
+- **Support:** Invokes an unnamed founding father's remark that democracy is the worst form of government on earth; contrasts democracy with the Republic.
+- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "democracy is slavery. If you want to be a slave, especially financially, then fine" / "Our founding father said that democracy is the worst form of government on earth"
 
 ---
 
 ## The Constitution as a Trust
 
 ### The 1789 Constitution was a mortgage trust to restructure Revolutionary War debt
-- **Claim:** The Constitution was not merely a founding document but a security/surety instrument—a Chapter 11 bankruptcy reorganization—to collateralize and pay off debt owed to the Bank of France (later Bank of England).
-- **Support:** The 13 original states were the creator-grantor; the federal government was the trustee; "We the People" and posterity were the beneficiaries.
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "A constitution under a legal definition is called a security with sureties created by a constitutor... The 13 original states say, OK, we are people and us, we're going to take on that 18 million dollar debt"
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "The whole reason of the constitution... is really a legal issue... think of it as a Chapter 11 bankruptcy reorganization"
-- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "The Constitution is a trust. Again, this is the biggest thing you can take away is that it's a trust"
+- **Claim:** The Constitution was not merely a founding document but a security/surety instrument — a Chapter 11-style bankruptcy reorganization — collateralizing and restructuring Revolutionary War debt (originally ~$6M, growing to $18M) owed to the Bank of France, later bought by the Bank of England. The 13 original states were the creator/grantor as sureties; the federal government was trustee; "We the People and posterity" were beneficiaries. The debt was pushed out 70 years via the First Bank of the United States (1791, 20-year charter), and all 13 states had to ratify as "co-signers" before the bank could start.
+- **Support:** Legal definition of "constitution" ("a security with sureties created by a constitutor"); debt-escalation timeline.
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "A constitution under a legal definition is called a security with sureties created by a" / "The construction, think of it as a Chapter 11 bankruptcy reorganization."
+- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "The Constitution is a trust." / "the beneficiaries were we, the people of the States and the posterity" / "not until all 13 colonies, states agreed to pay, be responsible for the debt, did then the national bank start"
 
-### The Constitution itself is a trust agreement under international trust law
-- **Claim:** The Constitution itself is a trust agreement; the founding fathers formed it as such, and understanding it through trust law is essential to grasping one's relationship to government.
-- **Support:** KL ties this to the Holy Alliance of 1213, which he says made international trust law the highest form of law on Earth, and to the Magna Carta as a predecessor document.
-- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "the Holy Alliance was a private trust treaty making international trust law the highest form of law on Earth"
+### Trust law as the universal mechanism of elite control
+- **Claim:** Trust agreements are "the mechanism of control that the elite use on us," and have been used this way for centuries (feudal kings/vassals, Rome, banking, contracts, social-media terms of service). Every trust has three roles — creator/grantor, trustee/fiduciary, beneficiary — and "he who creates controls." Nearly everything in the modern commercial world (bank accounts, insurance, driver's licenses, IRAs, Social Security) is legally a trust.
+- **Support:** Game of Thrones/feudal analogy; Roman citizenship-for-taxes example; dollar bill as a Federal Reserve trust instrument.
+- **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "everything is governed by trust law... The elites who rule this planet use trust law"
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "Trust agreements are the mechanism of control that the elite use on us." / "he who creates controls."
+- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "everything that the government or banks do is a trust"
+- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "There are express trust and there is implied trust." (Social Security, car titles, driver's licenses, Federal Reserve notes as implied trusts)
 
 ### The Civil War was triggered by Southern states refusing to sign as sureties to expanded debt
-- **Claim:** The South seceded because they refused to become sureties on a massive post-war debt (from $18M to $90M); Lincoln then declared the federal government bankrupt and instituted military rule under the Lieber Code.
-- **Support:** States that Congress was killed via sine die adjournment when Southern delegates walked out on April 27, 1861.
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "the reason they walked out and the reason this happened is because they did not want to sign on assurities to the debt"
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "Lincoln declared the HOA federal government bankrupt and then he instituted the Lever Code"
+- **Claim:** The South seceded primarily because they refused to become sureties on a massively expanded post-war debt (from $18M toward $90M), not — in KL's telling — fundamentally over slavery (though he concedes slavery was also a factor). Congress lost quorum ("sine die"/"cessante") when Southern delegates walked out (KL dates this variously to March/April 1861); Lincoln then declared the federal government (the HOA) bankrupt (KL says 1863) and instituted military rule under the Lieber Code.
+- **Support:** Debt-escalation timeline; Lieber Code sections describing martial law and property held "in abeyance."
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "the reason they walked out and the reason this happened is because they did not want to sign on assurities to the debt" / "Lincoln declared the HOA federal government bankrupt and then he instituted the Lever Code"
+- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "because no one was there to run the country, that's why Lincoln instituted the army" / "martial law is the immediate direct effect of consequence of occupation or conquest"
 
-> **Contradiction:** KL asserts that the Constitution grants *individual* rights and that joining a group causes one to lose constitutional rights ("socialism"), yet he simultaneously admits the Constitution is a "trust agreement for a group of people" and that the Founders acted collectively through the states. He resolves this by saying one must claim a *specific status* within the group, but the tension between "individual rights only" and "group trust" remains unresolved.
+> **Contradiction:** KL repeatedly frames rights as strictly *individual* and only ever waivable by each person's own voluntary act ("The Constitution gave you individual rights, not group rights... You lose your rights as soon as you form a group"; "Your rights can't be taken away by anyone. You can only waive them"), yet in the same breath — and repeatedly across episodes — he describes the Constitution itself as a *group/collective* trust agreement: the 13 states as creator/grantor, and "We the People and posterity" as beneficiaries bound to a debt-restructuring none of them personally signed, with membership in that beneficiary class inherited at birth rather than individually contracted. He also states that hiring an attorney turns "you" into "two persons," a "group," causing loss of individual rights — the same "group = loss of rights" logic he elsewhere applies to the Founders' own collective action forming the union.
 > Source: [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "the Constitution gave you individual rights, not group rights. And that's the whole problem with everything about the group is socialism. You lose your rights as soon as you form a group, your constitutional rights" vs [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "The states formed the union, not the people... Constitution is a trust agreement for a group of people. You are correct. You claim a certain status in that group"
+> Source: [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "Your rights can't be taken away by anyone. You can only waive them" and "The 13 original states say, OK, we are people and us, we're going to take on that 18 million dollar debt" and "when you bring on a an attorney, you're not one person anymore. You're two persons... Now you just waive your unalienable individual rights"
+> Source: [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "the beneficiaries were we, the people of the States and the posterity"
 
 ---
 
 ## The 1871 Act and Second Constitutional Trust
 
-### The 1871 Act incorporated D.C. as a new corporation with a second Constitution
-- **Claim:** After the Civil War, the District of Columbia was incorporated as "United States of America, Inc." (a Vatican/Delaware corporation), creating a new constitutional trust. The states were turned into sub-corporate franchises (state of Illinois, etc.).
-- **Support:** The new trust flipped the roles: the government became the beneficiary, and U.S. citizens became the trustees/payees liable for the debt.
+### The 1871 Act incorporated D.C. as a new corporation with a second constitutional trust
+- **Claim:** After the Civil War left the states broke, the "United States of America" corporation (originally bankrupt/managed by the army under the Lieber Code) was reincorporated in 1871 as "United States of America, Inc." — per KL, a Vatican-linked corporation formed in Delaware. This new corporate parent immediately created new franchise sub-corporations for each state (e.g., "State of Illinois," "State of Texas") and formed a second trust, flipping the original roles: the government became the beneficiary, and "U.S. citizens" became the trustees/payees/sureties liable for the debt.
+- **Support:** Historical narrative; when challenged by Chris for documentation of the Vatican/Delaware claim specifically, KL admits he can't yet produce it ("I'll look for it").
 - **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "Article one creates this incorporated incorporates the company... forming a corporation called the United States of America, Inc, Vatican corporation out of Delaware"
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "the Vatican forms a new Delaware corporation called United States of America, Inc., Incorporated... the beneficiaries are now going to become the government... we, the people or the citizens of the United States... are going to become the trustees"
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "the Vatican forms a new Delaware corporation called United States of America, Inc." / "U.S. citizens residing in one of the states of the union are classified as property in franchises of the federal government" (citing *Wheeling Steel Corp. v. Fox*, 1936)
+- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "when the states were bankrupt, the Vatican comes in" / "Do you have documentation or any proof to back that up somewhere" / "I'll look for it." / "They took the benefit that put them into a different trust... the citizens become the trustees"
+- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "We, the people have been reduced to an inferior grade and are now his subjects. He is the beneficiary. We, the people are the trustees." (citing 12 U.S.C. §95(a)/(b), 50 U.S.C. App. §5(b))
 
-### The two Constitutions differ by one word
-- **Claim:** The original is the "Constitution *for* the United States of America" (1789); the corporate version is the "Constitution *of* the United States of America" (1871). One word change denotes a different trust entity.
-- **Support:** This homograph/one-word change signals the shift from land jurisdiction to sea/statutory jurisdiction.
+### The two constitutions differ by one word ("for" vs. "of")
+- **Claim:** The original is the "Constitution *for* the United States of America" (1789); the corporate version is the "Constitution *of* the United States of America" (1871/later). The one-word change denotes a different trust entity and a shift from land jurisdiction to sea/statutory jurisdiction. Separately, under "national interest law," the word "of" can mean "without" — so "State of Illinois" can be parsed as "state without Illinois," denoting the corporate entity.
+- **Support:** Homograph/etymological argument.
+- **Source:** [03](../TXT/03_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 2_7c931bc4.txt) "under the national interest law the word of can mean without" / "state of illinois state of texas means state without texas corporate"
 - **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "The word the one word is different means it's a different entity. It's a different trust. They're going on at the same time"
+
+### Pink triangle (1789) vs. blue triangle (1871) trust diagram
+- **Claim:** KL diagrams two constitutional trusts: a "pink" 1789 trust (Article III, "we the people and posterity" as beneficiaries) and a "blue" 1871/statutory trust (Article I/II, government as beneficiary, "U.S. citizens" as trustee/fiduciary/payee) — "all they really did was flip the positions" of beneficiary and trustee.
+- **Support:** Diagram-based explanation walked through on screen.
+- **Source:** [03](../TXT/03_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 2_7c931bc4.txt) "all they really did was flip the positions the beneficiary and the trustees flipped in the trust agreements" / "the beneficiaries and now we are the u.s citizens ... now are the trustee fiduciary the payees"
 
 ---
 
 ## Two Citizenships
 
 ### American national / Union State citizen vs. U.S. citizen
-- **Claim:** There are two distinct citizenships: (1) American national / Union State citizen (Article 3, land jurisdiction, with Bill of Rights) and (2) U.S. citizen / 14th Amendment citizen (Article 1, territorial jurisdiction, without Bill of Rights).
-- **Support:** Cites *Slaughterhouse Cases* (1871), *U.S. v. Anthony* (1873), *U.S. v. Cruikshank* (1875), *McDonnell v. Jordan* (1883), *Maxwell v. Dow* (1900), and many others.
-- **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "citizens of the United States 14th amendment were clearly distinct from citizens of the several states"
+- **Claim:** There are two distinct citizenships: (1) American national / Union State citizen (Article 4 §2, later also framed as Article 3, land jurisdiction, with the Bill of Rights) and (2) U.S. citizen / 14th Amendment "citizen of the United States" (Article 1, territorial/D.C. jurisdiction, without the Bill of Rights). A person "gets to decide" which to claim — described repeatedly as a "volunteer system," analogous to choosing a political party.
+- **Support:** Cites Article IV §2; *Slaughterhouse Cases* (1873), *U.S. v. Anthony* (1873), *U.S. v. Cruikshank* (1875), *McDonnell v. Jordan* (1883), *Maxwell v. Dow* (1900), *Twining v. New Jersey* (1908), *Hague v. CIO* (1939), *Colgate v. Harvey* (1935), *Jones v. Temmer* (1993), and others.
+- **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "citizens of the United States 14th amendment were clearly distinct from citizens of the several states" / "You have the choice" / "you're volunteering to be one or the other"
 - **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "American nationals are owed the Bill of Rights. As they always have been, U.S. citizens are not owed the Bill of Rights"
+- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "you still have your union state citizenship, but now you have another one called the citizenship of the United States. You have two." / "American citizenship do not include fundamental rights, do not include common law rights and later do not include the first bill of rights"
+- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "if we claim that we're under the Constitution, we have all of our Bill of Rights are secured. But if you say you're a U.S. citizen, you do not have any of your Bill of Rights"
 
-### U.S. citizenship is strictly contractual and voluntary
-- **Claim:** No one is born a U.S. citizen; you volunteer into it by checking boxes on passports, voter registration, bank accounts, driver's licenses, and Social Security applications.
-- **Support:** Cites *U.S. v. Austin/Gary Cooper* (1996) transcript where a federal judge admits U.S. citizenship is based strictly on contract, and the DOJ prosecutor cites Social Security and postal service use as proof of co-suretyship.
-- **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "United States citizenship is based strictly on contract... he pays social security tax and uses the postal service thus this constitutes co-suretyship"
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "when you check that damn box, this is a U.S. citizen. You just you're the one that declared yourself a U.S. citizen. They didn't. You put the rope around your own neck"
-
-### One can be a Union State citizen without being a U.S. citizen
-- **Claim:** The 14th Amendment itself recognizes that an individual can be a citizen of one of the several states without being a citizen of the United States.
-- **Support:** Cites the text of the 14th Amendment and *U.S. v. Anthony*.
-- **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "the 14th amendment recognize that the individual can be a citizen of one of the union States without being citizen of the United States"
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "One may be a citizen of a state and yet not a citizen of the United States"
+### U.S. citizenship is strictly contractual and voluntary — the Austin/Gary Cooper case
+- **Claim:** No one is born a U.S. citizen; a person volunteers into it by checking boxes on passports, voter registration, bank accounts, driver's licenses, and Social Security applications. In *U.S. v. Austin Gary Cooper* (1989, S.D. Fla., case no. 89-109, Judge Hulver), Cooper asked the judge whether he was an American citizen or a U.S. citizen; the judge answered "you're both." The DOJ prosecutor reportedly stated U.S. citizenship "is based strictly on contract," citing Cooper's use of Social Security and the postal service as evidence of "co-suretyship" (surety = liable). Cooper was ultimately found guilty because he never rebutted the presumption.
+- **Support:** Named case citation, described in detail across three episodes.
+- **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "United States citizenship is based strictly on contract... he pays social security tax and uses the postal service dust that constitutes co-suretyship"
+- **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "Am I an American citizen or a United States citizen?" / "United States citizenship quote, is based strictly on contract" / "He was found guilty"
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "when you check that damn box, this is a U.S. citizen. You just you're the one that declared yourself a U.S. citizen. They didn't. You put the rope around your own neck" / "Am I an American citizen or am I a United States citizen?" Judge says you're both.
+- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "The judge admits there's two citizenships."
 
 ### The 14th Amendment created a second, dominant national citizenship
-- **Claim:** The 14th Amendment created a second, broader national citizenship ("citizenship of the United States") that is paramount and dominant, while the original Article-IV union-state citizenship became subordinate and derivative.
-- **Support:** KL notes judges admit two citizenships exist, and that claiming the wrong one after 1868 yielded fewer rights.
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "the 14th Amendment of 1868"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "national citizenship being paramount and dominant"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "state citizenship being subordinate and derivative"
+- **Claim:** The 14th Amendment (an Article 1 legislative creation, applicable only to district citizens/territory) created a new, broader "citizenship of the United States" that is paramount and dominant, while original Article 4 §2 union-state citizenship became subordinate and derivative. The 14th Amendment itself also recognizes that a person can be a citizen of a union state without being a citizen of the United States.
+- **Support:** 14th Amendment §1 text; *Slaughterhouse Cases* (1873, New Orleans butchers dispute — privileges/immunities under the 14th Amendment do not include the Bill of Rights, and apply only to "citizens of the United States," not citizens of the several states); *U.S. v. Anthony* (1873); *United States v. Cruikshank* (1875); *McDonnell v. Jordan* (1883); *Colgate v. Harvey* (1935); *Puerto Rico v. Sanchez Valle* (2015); *U.S. v. Ortiz* (2018, cited by KL as "585," enumerating that "the people" are beneficiaries of the 1789 trust, not district citizens, and have birthright Article 3 civilian judicial power).
+- **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "Now you have what's called a citizenship of the United States, plus you have the union" / "privileges and immunities under the 14th amendment of the United States citizenship do not include the bill of rights" / "the individual can be a citizen of one of the union States without being citizen of the United States"
+- **Source:** [03](../TXT/03_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 2_7c931bc4.txt) "remember the ortiz case judicial union or article three have core civilian private rights okay that's u.s supreme court rule 48.2"
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "any US citizen does not have the Bill of Rights in a courtroom." / "One may be a citizen of a state and yet not a citizen of the United States."
+- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "the 14th Amendment of 1868" / "national citizenship being paramount and dominant" / "state citizenship being subordinate and derivative"
 
-### U.S. Citizen vs Citizen of the United States
-- **Claim:** "U.S. citizen" and "citizen of the United States" are two distinct legal entities. The "U.S. citizen" status locks one into debt, whereas a pre-1933 private "citizen of the United States" does not. Only citizens of the United States or union-state citizens may obtain a U.S. passport.
-- **Support:** KL explains that passport applications rejected for lack of 14th-Amendment citizenship are actually correct under their rules; the key date is pre- or post-1933.
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "A citizen of the United States is not equal to a U.S. citizen"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "The U.S. citizen is the really bad locks you into the debt"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "only a citizen of the United States or a union state citizen can have a U.S. passport"
+### U.S. Citizen vs. "citizen of the United States" — a pre/post-1933 distinction
+- **Claim:** "U.S. citizen" and "citizen of the United States" are treated by KL as two distinct legal categories keyed to March 9, 1933: before 1933, being a "citizen of the United States" was a private/harmless status; after 1933, it became a "public" status bound as surety for the state-created artificial "U.S. citizen," obligated to file income tax. Only a pre-1933 "citizen of the United States" or a union-state citizen can obtain a full-strength (KL says "4- or 5-star") U.S. passport.
+- **Support:** Distinguishes the legal effect of the same words depending on pre-/post-1933 timing; ties to Internal Revenue Code taxation of corporations.
+- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "A citizen of the United States is not equal to a U.S. citizen" / "The U.S. citizen is the really bad locks you into the debt" / "only a citizen of the United States or a union state citizen can have a U.S. passport" / "Before 1933, it's OK to say you're a citizen of the United States." / "if you're pre 1933 citizen of the United States, you can get a four or five star passport"
+
+> **Contradiction (internal to episode 06):** KL states that using the phrase "citizen of the United States" in its *pre-1933* sense is safe and beneficial, sharply distinguishing it from the harmful "U.S. citizen": *"A citizen of the United States is not equal to a U.S. citizen to different legal entities"* and *"if you're pre 1933 citizen of the United States, you can get a four or five star passport."* But earlier in the same episode, discussing the *Slaughterhouse Cases*, he states that claiming to be a "citizen of the United States" (the 14th-Amendment status) is precisely what strips a person of Bill of Rights protection: *"if you're a citizen of the United States, you have no bill of rights. You lose."* He also states the 14th Amendment itself is what created "the citizenship of the United States" category — the very phrase he later calls safe to use. He gestures at a resolution ("It's got to do with if it's pre or post 1933") but never clearly maps which uses of the identical phrase fall in the "safe" bucket versus the "you lose your rights" bucket.
+> Source: [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "if you're a citizen of the United States, you have no bill of rights. You lose." vs. [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "A citizen of the United States is not equal to a U.S. citizen to different legal entities" / "if you're pre 1933 citizen of the United States, you can get a four or five star passport"
 
 ### Identifying as a U.S. citizen waives constitutional rights
-- **Claim:** Identifying as a "U.S. citizen" constitutes a voluntary contract into the federal statutory/military jurisdiction, thereby waiving constitutional rights and Bill of Rights protections.
-- **Support:** KL contrasts this with being a "private union state citizen," which he says keeps one under Article III and the Constitution.
-- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "If you say you're a U.S. citizen, you just waived your constitutional rights, because you've contracted into their jurisdiction"
-- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "U.S. citizens have no voice whatsoever in the present government"
+- **Claim:** Identifying as a "U.S. citizen" constitutes a voluntary contract into federal statutory/territorial jurisdiction, waiving constitutional rights. Being a "private union state citizen" instead keeps one under Article 3 and the Constitution.
+- **Support:** Contrasts the two statuses; ties to January 6 defendants losing rights protections by being tried in D.C./statutory jurisdiction and by hiring attorneys.
+- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "U.S. citizens have no voice whatsoever in the present government" / "This is why the J6ers are on the right. They're on the ant law side, and that's why they can't have their constitutionally secured rights"
+- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "If you say you're a U.S. citizen, you just waived your constitutional rights, because you've contracted into their jurisdiction" / "unless you can prove you're a private union state citizen, you can't access the Article 3 judiciary"
 
-### Citizen as beneficiary of a trust
-- **Claim:** The word "citizen" in law means "beneficiary" of a trust. One must proudly claim beneficiary status under the original 1789 constitutional trust to secure rights; claiming to be stateless leaves you classified as a belligerent enemy of the state.
-- **Support:** KL warns that rejecting all citizenship labels strips you of standing and protections.
-- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "To be a citizen means you're a beneficiary"
-- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "Only citizens slash beneficiaries can claim those rights"
-- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "If you go around stateless claiming you're not a citizen of anything, you have no rights"
+### Citizen as beneficiary of a trust; danger of claiming to be "stateless"
+- **Claim:** "Citizen" in law means "beneficiary" of a trust — which trust matters (the public straw-man trust is bad; the 1789 constitutional trust is good). Rejecting all citizenship labels and claiming to be "stateless" leaves a person with no rights recognized in court, treated as a "belligerent and enemy of the state," and subject to a presumption of guilt.
+- **Support:** Criticizes the "Lysander Spooner group" approach of refusing all citizenship.
+- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "To be a citizen means you're a beneficiary" / "Only citizens slash beneficiaries can claim those rights" / "If you go around stateless claiming you're not a citizen of anything, you have no rights" / "That's the Lysander Spooner group doing that. I wasn't a party."
 - **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "He is deemed an enemy and trustee in every case"
+- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "citizen of the United States is a civilly dead entity or official operating as a co-trustee and co-beneficiary of the PCT" (citing Congressional Record, June 13, 1967)
 
 ### Declaring political status and undoing contracts
-- **Claim:** One must formally declare oneself a pre-March 9, 1933 private American national to reclaim original constitutional land jurisdiction, and must undo all prior contracts (passport, driver's license, bank accounts, TSA Precheck) where one checked "U.S. citizen."
-- **Support:** KL warns that declaring a new status while continuing to use the old contracts makes you "talking out of both sides of your ass" in the eyes of the government.
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "We declare ourselves as a pre-March 9th, 1933 private American national"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "We send all signatures of surety from the government contracts"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "your passport, where you checked, I'm a U.S. citizen, your driver's license"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "You have to undo these contractual agreements"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "you're talking out of both sides of your ass"
+- **Claim:** One must formally declare oneself a pre-March 9, 1933 private American national/citizen to reclaim original constitutional land jurisdiction, and must affirmatively undo prior contracts (passport, driver's license, bank accounts, TSA Precheck, voter registration) where "U.S. citizen" was checked. Declaring a new status while continuing to use old contracts is "talking out of both sides of your ass."
+- **Support:** Anecdote of a person who declared "state national" status without undoing contracts and was jailed for a psych evaluation.
+- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "We declare ourselves as a pre-March 9th, 1933 private American national" / "You have to undo these contractual agreements" / "you're talking out of both sides of your ass" / "if you don't undo the contracts, you're not. You might think you are, but I'm telling you, you're not"
+- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "we claim we're pre-March 9th, 1933 private American citizen"
+
+> **Contradiction (cross-episode):** In episode 03, when asked whether he (born in 1975) can personally claim pre-1933 American national status, KL explicitly says he cannot: *"for me being born in 75 I couldn't really say that... applies to me could I"* — treating the March 9, 1933 cutoff as a hard, literal date barrier. Yet in episodes 06 and 10, he repeatedly instructs claiming exactly this "pre-March 9th, 1933 private American national/citizen" status as part of his own standard remedy paperwork ("we declare ourselves as a pre-March 9th, 1933 private American national"; "we claim we're pre-March 9th, 1933 private American citizen"), without clarifying how this reconciles with his own admission that his birth year disqualifies him from the literal cutoff. He appears to treat "pre-1933" elsewhere as a claim about the *trust/political-status lineage* one is opting back into rather than a personal birth-date requirement, but he does not say so explicitly at the point of the apparent conflict.
+> Source: [03](../TXT/03_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 2_7c931bc4.txt) "so i claim i'm pre-march 1933 american national" ... "for me being born in 75 i couldn't really say that i that applies to me could i" vs. [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "We declare ourselves as a pre-March 9th, 1933 private American national" and [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "we claim we're pre-March 9th, 1933 private American citizen"
 
 ---
 
-## The Straw Man / Legal Fiction / Birth Certificate
+## The Strawman / Legal Fiction / Birth Certificate
 
-### The all-caps name is a separate artificial legal entity (the straw man)
-- **Claim:** The government creates a "sole corporation" artificial person using your all-caps name; this is not the living man. You are tricked into acting as surety/trustee for it.
-- **Support:** Cites *Santa Clara County v. Southern Pacific Railroad* (1886) that a corporation is a "person" under the 14th Amendment, and *Hale v. Henkel* (1906) distinguishing natural vs. artificial persons.
-- **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "the straw man corporation... You, like a dummy, agree to be liable for the straw man though"
+### The all-caps name is a separate artificial legal entity (the strawman)
+- **Claim:** The government creates a "sole corporation" artificial person using the person's all-caps name; this is not the living man. The individual is tricked into acting as surety/trustee for it, unwittingly becoming liable for it.
+- **Support:** Cites *Santa Clara County v. Southern Pacific Railroad* (1886, corporation is a "person" under the 14th Amendment); Black's Law definition of "corporate soul" ("a legal entity consisting of a single incorporated office occupied by a single natural person"); notes the Vatican has used the "corporate soul" device for parish priests for 500 years, shielding the Church from personal-liability lawsuits over abuse.
+- **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "the straw man corporation... You, like a dummy, agree to be liable for the straw man though" / "The Supreme Court rules that a corporation is a person under the 14th Amendment."
 - **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "The government creates a sole corporation, artificial legal entity under operation of law. That's the straw man"
 - **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "the legal fiction and the creation of the straw man"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "The all caps name is not you"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "It's a title. It's a trust"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "Every time you say it is you, you're agreeing to be the surety"
+- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "The all caps name is not you" / "It's a title. It's a trust" / "Every time you say it is you, you're agreeing to be the surety"
+- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "The corporate soul is created by the state where you were born in."
 
-### The straw man is created from the afterbirth via the birth certificate
-- **Claim:** At birth, the baby goes one way and the afterbirth (umbilical cord/placenta) goes another. The afterbirth is "abandoned property" under maritime admiralty law; the state claims it, gives it your DNA-based name in ALL CAPS, and registers it as a trust asset.
-- **Support:** Draws analogy to Cestui Que trusts and Seste KV 1666; the all-caps name signifies a dead/corporate entity.
+### The strawman is created from the afterbirth via the birth certificate
+- **Claim:** At birth, the baby and the afterbirth (umbilical cord/placenta, sharing the baby's DNA) are legally separated the moment the cord is cut, creating two entities. Under maritime/admiralty salvage law, the afterbirth — "born alive, but presumed to die" — is treated as abandoned property; the state claims it, names it after the baby (using its DNA) in ALL CAPS, and this "dead" entity becomes a corporation registered as a trust asset ("your dead twin"). D.C. Code §7-201's statutory definition of "live birth" (pulsation of the umbilical cord, contraction of voluntary muscles) is the legal hook that lets this apply to the afterbirth tissue itself, not just the baby.
+- **Support:** Draws on admiralty/maritime salvage law; analogizes to Cestui Que Vie trusts (1666); D.C. Code statutory "live birth" definition read verbatim.
 - **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "the afterbirth is abandoned property... the state came along and gave it a name. That's the name of your afterbirth is your all caps name"
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "the umbilical cord in the afterbirth, whose DNA is in there?... The state comes along, claims the property, names the property and turns it into what we call a sole corporation"
-- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "we need a monopoly game piece to play the game of monopoly"
-- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "And that's what becomes the straw man"
-- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "It's you, your dead person, your dead twin that was born alive, but presumed to die"
+- **Source:** [03](../TXT/03_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 2_7c931bc4.txt) "under admiralty maritime law salvage law hey you abandoned it now we can make a claim on it" / "now that it dies because it is born alive right ... bingo now I can make it a corporation"
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "the umbilical cord in the afterbirth, whose DNA is in there?... The state comes along, claims the property, names the property and turns it into what we call a sole corporation" / "it is born alive, but presumed to die."
+- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "live birth, according to the government means the complete expulsion or extraction" / "that's what becomes the straw man. It's you, your dead person, your dead twin"
+- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "they're taxing the straw man that they created with the birth certificate in the early 30s"
 
 ### Two distinct birth documents
-- **Claim:** There are two distinct birth documents: the county-level Certificate of Live Birth (signed by a doctor, upper/lower-case name, evidence of union-state citizenship) and the state-level birth certificate (no doctor signature, all-caps name, evidence of the straw man's creation from the afterbirth).
-- **Support:** KL displays both Illinois documents side-by-side to show the jurisdictional trap.
-- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "So what really happens when you get a birth certificate?"
-- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "Evidence of union state citizenship, private doctor signatures"
-- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "that's the birth, the actual birth certificate of the straw man"
-- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "And that one in Illinois is put in all caps"
+- **Claim:** There are two distinct birth documents: the county-level Certificate of Live Birth (signed by a doctor, upper/lower-case name, evidence of birth "on the land" as a union-state citizen) and the state-level birth certificate (no doctor signature, all-caps name, evidence of the strawman's creation). The single reliable differentiator is a doctor's signature — not capitalization style, which varies by state (e.g., California capitalizes only the surname on both documents).
+- **Support:** KL displays Illinois documents side by side; contrasts with a Virginia certificate of KL's own that lacks a clear differentiator, prompting him to say he'll re-order it to check.
+- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "Evidence of union state citizenship, private doctor signatures" / "that's the birth, the actual birth certificate of the straw man" / "And that one in Illinois is put in all caps" / "the major difference between the two documents again is one will have a doctor's signature"
 
-### Birth certificates are receipts / bills of lading for a trust
-- **Claim:** The birth certificate is a receipt proving the state holds legal title to the straw man; you must claim it back as your property, just like claiming a forgotten bag of groceries with a receipt.
-- **Support:** Cites Trading with the Enemy Act, stating if you come back and claim the property, they must give it to you.
-- **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "those IOU notes, those IOUs that we talked about, we always get a receipt every time we use them... the evidence of your property is the receipt"
-- **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "It is written in the trading with the enemy act that if you just come back and claim it, they'll give it to you"
+### Birth certificates are receipts/bills of lading for a trust; must affirmatively claim it as "beneficiary"
+- **Claim:** The birth certificate functions like a store receipt — proof the state holds legal title to the strawman, which the true owner can reclaim ("Trading with the Enemy Act" says if you come back and claim abandoned property, they must give it to you). Merely using the strawman's benefits isn't "claiming" it; one must go back on paper and affirmatively claim the property, explicitly naming the office/capacity of "beneficiary" — using just "I," or a "living man" framing, doesn't work and leaves the claim exploitable as an implicit trustee admission.
+- **Support:** Grocery-store receipt analogy; Trading with the Enemy Act.
+- **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "the evidence of your property is the receipt" / "It is written in the trading with the enemy act that if you just come back and claim it, they'll give it to you."
+- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "No, you have to on paper, go back and claim it." / "You have to actually say the word beneficiary to have the right to claim the property." / "only a beneficiary of a trust can make a claim on a trust"
 
-### The all-caps name as property held in trust
-- **Claim:** The all-caps name is not the living man; it is property, a noun, a thing, and a title held in trust by the government. Every time you say the name is you, you agree to be surety and accept liability.
-- **Support:** KL emphasizes that legal title to both the upper/lower-case name and the all-caps name rests with the state; the individual holds only equitable title.
-- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "in all caps"
-- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "That's the property that is being put into trust is the name"
-- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "A noun is a person, place or thing. So a name is a thing, it's property"
-- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "they've got the legal title to both names"
+### The all-caps name as property held in trust (legal vs. equitable title)
+- **Claim:** The all-caps name is not the living man; it is property, a noun/thing, and a title held in trust by the government. "Registration" derives etymologically from "regal" — giving to the king — meaning any registered asset (the name, a car, a home) splits into legal title (held by the state/king) and equitable title (use and possession, held by the individual). The government holds legal title to *both* the upper/lowercase name and the all-caps name.
+- **Support:** Black's Law definition of "registration"; Federal Reserve Note vs. silver certificate demonstration (FRN = legal title held by the Fed; certificate = lawful money).
+- **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "well registration comes from the word regal regal comes from the meaning that you give to the king" / "all you ever get is possession and use of it"
+- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "That's the property that is being put into trust is the name" / "A noun is a person, place or thing. So a name is a thing, it's property" / "they've got the legal title to both names" / "You're handing over legal title."
+- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "regal registration comes from the word regal, regal means you're giving to the King" / "when you register the vehicle, the conveyance to you of the legal title never happened"
+- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "The reason we have to have car registrations is because we don't have legal title to the car"
 
 ### Birth certificate registers a corporate soul for taxation
-- **Claim:** The birth certificate registers a person's name as public property, creating an artificial corporate person ("straw man" or "corporate soul") that is placed into a public trust; the living man/woman is not taxed—only the corporate straw man is.
-- **Support:** KL cites the 1895 Supreme Court ruling that a natural person cannot be taxed, but an artificial person (corporation) can; the birth certificate mechanism was developed to create the taxable entity.
-- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "your whole life, they never really tax you, the real man, who they're taxing is the corporate soul corporation straw man"
-- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "They're taxing the straw man that they created with the birth certificate in the early 30s"
+- **Claim:** The birth certificate creates the artificial corporate "straw man"/"corporate soul," which is placed into a public trust; the living man/woman is never actually taxed — only the corporate strawman is, per the 1895 Supreme Court holding that natural persons cannot constitutionally be taxed but corporations can.
+- **Support:** *Pollock v. Farmers' Loan & Trust Co.* (1895); 16th Amendment as extending taxability to the artificial "person."
+- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "your whole life, they never really tax you, the real man, who they're taxing is the corporate soul corporation straw man" / "Pollock v. Farmer, U.S. Supreme Court, 1895... there's a difference between a natural and a private person"
+- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "they're taxing the straw man that they created with the birth certificate in the early 30s"
+
+### 1918 Colonel House speech and history of birth registration (1902/1906 onward)
+- **Claim:** Birth registration in the U.S. began around 1902–1906 (preceded by an 1853 UK equivalent), originally sold to the public as harmless "recording" — federal women employees were reportedly given two weeks' paid vacation to register births. Colonel Edward Mandell House's 1918 remarks to Woodrow Wilson (quoted at length by KL) describe a plan to register Americans' "biological property," pledge future labor as collateral, and profit via "social insurance." "Registration" always legally means entering a trust and surrendering legal title; "recording" later became "registration."
+- **Support:** Historical timeline; House speech excerpt.
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "Every American will be forced to register or suffer being able to work and earn a living."
+- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "that recording of the birth later turns into the registration of the birth" / "registration means that you're entering into a trust agreement and you're giving up legal title to something"
+- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "around 1906, 1906, federal women, our employees...were given this benefit of two weeks vacation if they would record their births"
 
 ---
 
 ## Trust Structure and Roles
 
-### Three-party trust created at birth
-- **Claim:** Every birth creates a trust with three parties: creator/grantor, trustee, and beneficiary. Parents act as trustees while the child is a minor; at legal age the individual unknowingly volunteers to become the trustee and thus the liable party.
-- **Support:** KL uses the grocery-store receipt analogy to explain beneficial title (use and possession) versus legal title (control).
-- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "there was a trust that was formed because they were the creators of the trust"
-- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "So the parents are the trustee while the child is growing up"
-- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "at legal age is when now you can become liable for that name"
-- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "You can become the trustee or volunteer to be the trustee"
-- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "only a beneficiary of a trust can make a claim on a trust"
+### Three-party trust created at birth; parents as initial trustees
+- **Claim:** Naming a baby creates a trust with three parties: creator/grantor, trustee, beneficiary. The parents, as namers/creators, act as trustees while the child is a minor (hence liable for a minor's acts); at legal age (18, or earlier if tried as an adult) the individual becomes able to be — and typically unknowingly volunteers to become — trustee, and thus the liable party.
+- **Support:** Grocery-store receipt analogy for beneficial (use/possession) vs. legal (control) title; parental-liability-for-a-minor's-shoplifting analogy.
+- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "there was a trust that was formed because they were the creators of the trust. They granted the name" / "So the parents are the trustee while the child is growing up" / "at legal age is when now you can become liable for that name" / "You can become the trustee or volunteer to be the trustee"
 
-### SESTA-K vs SESTA-KV Trust
-- **Claim:** Assets held publicly for the straw man reside in the government-created SESTA-K trust (public trust), whereas the SESTA-KV trust is the private living-estate trust for the living man. David Strait incorrectly reconveys public assets into the SESTA-KV trust, leaving them under government control.
-- **Support:** KL displays Strait's deed of reconveyance and points out the wrong trust designation.
-- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "this is a SESTA-K trust, not a SESTA-KV"
-- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "The SESTA-KV trust isn't holding those assets"
-- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "The SESTA-KV trust is the living estate trust for the living man"
-- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "All of the assets in the public are held in the SESTA-K trust"
-- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "OK, that's the straw man trust"
+### SESTA-K vs. SESTA-KV trust
+- **Claim:** Assets held publicly for the strawman reside in the government-created "SESTA-K" trust (public straw-man trust — the name given at birth by the parents/state), whereas "SESTA-KV" is the private living-estate trust for the living man (KL says "V" means "living," referencing the 1666 Cestui Que Vie Act). David Strait's deed-of-reconveyance paperwork incorrectly reconveys public assets into the SESTA-KV designation, leaving them under government control because the assets never actually resided there.
+- **Support:** Displays Strait's deed of reconveyance and points out the wrong trust designation.
+- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "this is a SESTA-K trust, not a SESTA-KV, but I'll tell you that about that later"
+- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "The SESTA-KV trust isn't holding those assets... All of the assets in the public are held in the SESTA-K trust"
 
 ### The SESTA-K trust holds massive credit backing Federal Reserve notes
-- **Claim:** Everyone has a Cestui Que trust (from the 1666 Cestui Que Vie Act) attached to the straw man. The SESTA-K trust (straw man version, not the living-man Cestui Que Vie version) holds massive credit (hundreds of millions to billions) and is the collateral backing Federal Reserve notes.
-- **Support:** The Social Security account is tied to this trust and cannot be closed because it is the reserve for the fiat system.
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "The SESTA-K, SESTA-K V Trust, the word V means living. That's a trust for the living man. But a SESTA-K trust is for the straw man"
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "The SESTA-K account... have between five hundred million and five billion dollars in everybody's account. That's a whole lot of money on the private side. That's that's credit. That's not debt"
+- **Claim:** Everyone has a SESTA-K trust attached to their strawman holding substantial credit (KL says between roughly $500 million and $5 billion per account in some episodes), which serves as collateral backing Federal Reserve notes. The Social Security account is tied to this trust and cannot be closed because it is the reserve for the fiat system; the SSN functions like a VIN number identifying the artificial "vessel," not the living person.
+- **Support:** Ties SSA account structure to Federal Reserve collateral; VIN-number analogy.
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "The SESTA-K, SESTA-K V Trust, the word V means living. That's a trust for the living man. But a SESTA-K trust is for the straw man" / "That's why you cannot close that account. You cannot alter that account. It was for the artificial entity."
+- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "when you sign up for Social Security, that's what turns the citizen of the United States into the U.S. citizen trust agreement" / "It's their number. You're just using the number."
 
-### Public Charitable Trust
-- **Claim:** The straw man was placed into a public charitable trust established after the Civil War. All public benefits—welfare, Social Security, bank accounts, credit cards, insurance—are benefits of that trust available only to the artificial entity, not the living man.
-- **Support:** KL argues that because the living man cannot interact with an artificial government, the straw man was created to receive these benefits and do commerce on his behalf.
-- **Source:** [08](../TXT/08_20260805_The KEY To FREEDOM Is Education w Dr. KL Beneficiary _Lesson _4.5__c230ca00.txt) "called the public, uh, charitable trust. It was set up after the civil war"
-- **Source:** [08](../TXT/08_20260805_The KEY To FREEDOM Is Education w Dr. KL Beneficiary _Lesson _4.5__c230ca00.txt) "the public persona, the straw man can get welfare, can get social security"
-- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "There in that public trust, it can receive welfare benefits, social security benefits"
+### Public charitable trust
+- **Claim:** The strawman was placed into a public charitable trust established after the Civil War. All public benefits — welfare, Social Security, bank accounts, credit cards, insurance, even lower loan rates than a "real man" could get — are benefits of that trust, available only to the artificial entity because the living man cannot interact directly with an artificial government; only artificial entities can deal with other artificial entities.
+- **Support:** Assertion presented as historical fact ("look it up"), offered partly as rebuttal to a critic (Clint Richardson) whom KL says misunderstands where the strawman sits in trust law.
+- **Source:** [03](../TXT/03_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 2_7c931bc4.txt) "only artificial entities can deal with other artificial entities they have no way to recognize the natural man"
+- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "the snake comes along and says, Hey, the mom and dad abandoned the property" / "What their claim is since no one claimed it, we're administering it. We're the custodian."
+- **Source:** [08](../TXT/08_20260805_The KEY To FREEDOM Is Education w Dr. KL Beneficiary _Lesson _4.5__c230ca00.txt) "It's called the public, uh, charitable trust. It was set up after the civil war." / "even the straw man can borrow money from a bank or a house at a lower rate than a real man can"
 
-### Implied trusts in courts and government
-- **Claim:** All court proceedings operate as implied trusts under presumption of law; the bar guild acts as trustees, and by appearing and answering "yes" to one's name, a person unwittingly accepts the office of trustee and surrenders in personam jurisdiction.
-- **Support:** KL cites Roman Canon 3228 and rules of court to show that presumptions create trust relationships without explicit documents.
-- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "if you appear and they say, are you Mr. [Name]. And you say the word, yes, then you have volunteered to be the trustee"
-- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "all court cases are trust relationships"
+### Implied trusts in courts and government; Roman Canon 3228
+- **Claim:** Most government/financial relationships are "implied trusts" (created by conduct, not written contract) — Social Security, car titles, driver's licenses, Federal Reserve notes, common-law marriage. Court proceedings specifically operate as implied trusts under "Roman law, Canon 3228": the bar guild acts as trustees, and by appearing and answering "yes" to one's name, a person unwittingly volunteers to be trustee, surrendering in personam jurisdiction and constitutional rights unless the presumption is immediately rebutted and beneficiary status claimed instead.
+- **Support:** Black's Law definition of "implied trust"; Canon 3228 citation; courtroom "musical chairs" analogy (only one "trustee" chair, and whoever claims "beneficiary" first forces the other party into it).
+- **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "they don't have jurisdiction until you give it... They have to trick you into giving it to them"
+- **Source:** [03](../TXT/03_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 2_7c931bc4.txt) "you just agreed you're the trustee ... unless you rebut that immediately" / "as beneficiary since i am the beneficiary i'm going to point the court as the trustee now i just threw the hot potato"
+- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "if you appear and they say, are you Mr. [Name]. And you say the word, yes, then you have volunteered to be the trustee" / "the title of your presumption is a Roman law, Canon 3228" / "all court cases are trust relationships"
+
+### Private business trusts are legally real and defensible as remedy
+- **Claim:** Private business trusts exist under equity jurisdiction (not statutory code) and are a proper vehicle to remove property/status from federal jurisdiction. The IRS code's silence on the specific term "business trust" doesn't mean it doesn't exist. KL says he has written "hundreds" (elsewhere "over a thousand") of trusts, gives the government a 30-day disclaim window, and none has ever been challenged as a sham trust by the IRS, Treasury, or a court.
+- **Support:** Cites 26 U.S.C., Black's Law 2nd ed. definition of "business trust," Weiss-Paris law firm; cites *Wind v. Department of Justice* as precedent that a private common-law trust successfully defended itself against DOJ and IRS action; personal example of putting his parents' rental properties into a trust and avoiding capital-gains tax entirely upon their deaths/sale.
+- **Source:** [08](../TXT/08_20260805_The KEY To FREEDOM Is Education w Dr. KL Beneficiary _Lesson _4.5__c230ca00.txt) "you guys can check out the wind versus the department of justice" / "I've written over a thousand trust a thousand."
+- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "I've written hundreds of trust, hundreds, both private and public... never had one of my trust be considered a sham trust" / "the term business trust is not used in the Internal Revenue Code. It doesn't say it doesn't exist." / "Private business trusts are under the jurisdiction of the law of equity" / "he didn't have to pay any capital gains tax on his returns"
+
+### Grantor role is valid in private (non-revocable) trusts
+- **Claim:** Contrary to a critic's claim that a "grantor" can only exist in a revocable trust, private trusts can and must have a grantor.
+- **Support:** Appeals to Weiss-Paris as authority; analogy to wealthy families using trusts.
+- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "a grant or can only be used in a revocable trust. Well, that's absolute bullshit." / "ask Weiss-Paris... if you can have a grant or in a private trust, of course you can, you have to have one."
 
 ---
 
 ## Trading with the Enemy Act / 1933 Emergency / Military Occupation
 
-### The 1933 national emergency placed all property into trust and made citizens enemies
-- **Claim:** FDR's Proclamation 2040 and the Emergency Banking Relief Act amended the 1917 Trading with the Enemy Act to apply domestically. All registered property (including the straw man) was placed into trust; all persons (defined as corporations/associations) were deemed rebels, belligerents, and enemies.
-- **Support:** The national emergency was never rescinded; Congress exempted it from the 1976 two-year emergency limit.
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "All publicly registered property is placed into a trust via the emergency. This includes even the public straw man"
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "We're still under that order today because the national emergency has never been rescinded"
-- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "since March 1933, the United States has been in a declared national emergency"
-- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "The law of necessity, or otherwise known as the doctrine of village and occupation, overrides all other law"
+### The 1933 national emergency placed all property into trust and made citizens "enemies"
+- **Claim:** FDR's proclamations (KL cites Proclamation 2039, the bank holiday of March 6, 1933, and Proclamation 2040) and the Emergency Banking Relief Act (March 9, 1933) amended the 1917 Trading with the Enemy Act (originally authored by FDR himself as Assistant Secretary of the Navy) to apply domestically. Section 5(b) declared all "persons" (defined broadly — individuals, corporations, associations, including the strawman) rebels/belligerents/enemies of the state, and every state became "occupied territory." The emergency has never been rescinded by any president, including Trump; only a sitting president can rescind Proclamation 2040, per its own text.
+- **Support:** Cites Senator Frank Church's 1973 congressional report and Senate Report 93-549 that the U.S. has been in declared national emergency since March 1933; notes a 1976 law capping emergencies at two years that specifically exempted TWEA §5(b).
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "All publicly registered property is placed into a trust via the emergency. This includes even the public straw man" / "We're still under that order today because the national emergency has never been rescinded"
+- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "the Emergency Banking Relief Act of March 9th, 1933 that amended the 1917 Trading with the Enemy Act" / "we're in the eighty ninth year of that emergency"
+- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "the United States has been in a state of declared national emergency since March 9th, 1933" / "the only person that can undo this proclamation 2040 is another president" / "you'd like...he had the opportunity in his first four years...to be able to undo this proclamation 2040" / "I question it also"
+- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "The law of necessity, or otherwise known as the doctrine of village and occupation, overrides all other law" / "1973, Senate Report 93-549... since March 1933, the United States has been in a declared national emergency"
 
 ### Franchise states became conquered territories under military occupation
-- **Claim:** The corporate states (state of Illinois, etc.) became conquered territories under Article 2 (sea/military jurisdiction). Courts with gold-fringed flags are military tribunals operating under the Commander in Chief.
-- **Support:** The eagle atop the flagpole denotes Article 2 executive control, not Article 3 judicial power.
+- **Claim:** The corporate states (State of Illinois, etc.) created in 1871 became legally treated as "conquered territories" under the 1933 Trading with the Enemy Act, placing residents under military/Article 2 jurisdiction. Courts with gold-fringed flags are military tribunals operating under the Commander in Chief — the eagle atop the flagpole denotes Article 2 executive control, not Article 3 judicial power (and per KL, the gold fringe reportedly disappears from flags behind a sitting president when he is on foreign soil).
+- **Support:** Army regulation cited (unspecified page) re: gold-fringed flags signifying military occupation; a 1996 *Journal of the American Jural Society* article in which a judge (Carol Wardell) allegedly admitted on the record she would not protect a defendant's rights under the "War Powers Act of March 9th, 1933."
 - **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "the franchise states that were created under the 1871 become conquered territories under the Trading with the Enemy Act of March 9th, 1933"
 - **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "when you go into any courtroom... it's going to have a flag with a with a gold fringe on it. It's telling you that there's currently a military occupation taking place"
+- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "Army regulation state anytime there's gold fringe around the flag means your country is being military occupied" / "she will not protect his rights under the War Powers Act of March 9th, 1933" / "Every state of Illinois, state of Tennessee, state of Florida is de facto conquered territory"
 
 ### Military occupation since 1933 and emergency war-power courts
-- **Claim:** The Emergency Banking Relief Act of March 9, 1933 amended the 1917 Trading with the Enemy Act, declaring a perpetual national emergency and placing the United States under military occupation. All courts now operate as emergency war-power courts of the conqueror.
-- **Support:** KL cites military-government doctrine and notes Congress has not declared war since Korea, while presidents govern by executive order under the War Powers Act.
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "the Trading with the Enemy Act, March 9th, 1933, where it's really called the Emergency Banking Relief Act"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "the Emergency Banking Relief Act of March 9th, 1933 that amended the 1917 Trading with the Enemy Act"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "All courts now in substance, emergency war power courts of the conqueror commander in chief"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "That was sold to the people as it's temporary, provisional until the emergency is over"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "we're in the eighty ninth year of that emergency"
+- **Claim:** All courts now operate, in substance, as emergency war-power courts of the conqueror/commander-in-chief; Article 1 courts are run by Article 2 (executive) power. Congress has not formally declared war since Korea (KL cites Truman's Proclamation 2914, December 16, 1950, as establishing perpetual undeclared war), and presidents govern via executive emergency power instead.
+- **Support:** Military-government doctrine ("military government is that which is established by a commander over occupied enemy territory... occupants are treated as rebels, belligerents and enemies"); Proclamation 2914.
+- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "All courts now in substance, emergency war power courts of the conqueror commander in chief" / "That was sold to the people as it's temporary, provisional until the emergency is over" / "military government is that which is established by a commander over occupied enemy territory" / "Government declares perpetual foreign war. De facto Congress never declares war again"
 
-### Suspension of the Constitution under occupation
-- **Claim:** Because of the ongoing national emergency/military occupation, the Constitution is suspended for those within the federal jurisdiction; judges operating under Article I/II cannot hear constitutional claims.
-- **Support:** KL explains that Article III equity courts still exist but are inaccessible unless the litigant knows how to prove status and invoke them.
-- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "It suspends the Constitution if you're in that jurisdiction"
-- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "don't bring up the constitution and I don't want to hear it in my courtroom"
+### Suspension of the Constitution under occupation ("doctrine of necessity")
+- **Claim:** The "doctrine of necessity"/"law of belligerent occupation" is the constitutional basis (Article 1 §9 cl. 2, habeas corpus suspension) on which extraordinary administrative action is presumed lawful even when it would otherwise be unconstitutional. This occupation law supersedes/suspends the Constitution for those within federal/statutory jurisdiction; Article 1/2 judges cannot hear constitutional claims, though Article 3 equity courts still exist and remain accessible to those who know how to invoke them.
+- **Support:** Article 1 §9 cl. 2; Lincoln's 1861 habeas corpus suspension as precedent; DoD Law of War Manual; self-defense/licensing analogies ("permission slips to break the law").
+- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "don't bring up the constitution and I don't want to hear it in my courtroom" / "Only an article three judge in an equity court is allowed to hear matters pertaining to constitutionally secured rights"
+- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "It suspends the Constitution if you're in that jurisdiction" / "for people who think that the present government is unconstitutional, they're wrong. It is constitutional." / "the law of necessity...overrides all other law"
 
-### ZIP codes are military venues
-- **Claim:** ZIP codes are military venues; using a ZIP code on an address places one under military jurisdiction. The United States Postal Service is currently under military control.
-- **Support:** KL distinguishes constitutional land jurisdiction from territorial military jurisdiction controlled by the Post Office.
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "The zip codes are military venues"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "putting zip codes down as an address can actually put you under the military"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "USPS is under military right now"
+> **Contradiction (internal to episode 12):** KL states the doctrine of necessity/occupation law makes the current system "presumed lawful" and explicitly says people who call the present government "unconstitutional" "are wrong. It is constitutional," calling the whole 1933-onward emergency regime "well within the Constitution, well within even lawful." Yet elsewhere in the same episode he repeatedly calls the same features of that regime "unconstitutional" outright — e.g., Federal Reserve notes not being backed by gold/silver ("the constitution states that all money is supposed to be backed by gold and silver"), the 1913 income tax's scope-creep, and federal agencies exceeding the 19 enumerated powers ("a lot of what we're doing and they're doing is unconstitutional, quote, unconstitutional"). He partially reconciles this by saying it's "unconstitutional" only relative to the Article 3/union-state jurisdiction but lawful within the D.C./occupation jurisdiction, but he does not consistently flag that caveat each time he uses the word.
+> Source: [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "for people who think that the present government is unconstitutional, they're wrong. It is constitutional." vs. [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "the constitution states that all money is supposed to be backed by gold and silver" and "a lot of what we're doing and they're doing is unconstitutional, quote, unconstitutional"
 
-### Airports and federal territory designation
-- **Claim:** Airports and other locations can be designated federal territory, placing them under federal/military jurisdiction where constitutional rights do not apply; this is why TSA searches are permitted despite Fourth Amendment objections.
-- **Support:** KL describes this as changing jurisdiction "in front of your eyes" through contractual and territorial designations.
-- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "in the airport is a different jurisdiction than what you think it is... when you're in their sandbox, you're in their jurisdiction"
+### Zip codes, time zones, and daylight savings as military jurisdiction markers
+- **Claim:** Zip codes are military venues; using one as an address places a person under military jurisdiction. Time zone boundaries and daylight savings time are likewise described as "military doctrine" devices for bringing everyone under jurisdiction. USPS currently operates under military jurisdiction, while the (separate) "United States Post Office" side operates under the Republic.
+- **Support:** Asserted as fact/doctrine, no case citation given.
+- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "The zip codes are military venues. That's why they put them in there." / "the time zones, how they change, that's another military doctrine" / "Daylight savings times, that's another way to get everybody under their jurisdiction" / "USPS is under military right now" / "United States Post Office side of the post office is under the Republic"
 
-### 9/11 was a deliberate distraction to prevent a debt jubilee
-- **Claim:** Under international bankruptcy law, a jubilee (debt forgiveness) was scheduled to be announced on September 11, 2001 at 10:00 a.m. The attacks at 8:45 a.m. were the distraction that prevented the jubilee and allowed another debt restructuring.
-- **Support:** The government was given a 20-year grace period (to 2021/2022) to decide whether to jubilee or restructure again.
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "the jubilee was supposed to be announced September 11th, 10 a.m. in the morning. Well, what happened at 845 that same day? Big, unfortunate, unfortunate events... It's just a wildest coincidence that happened an hour before they were going to announce the jubilee"
+### Airports and other locations as designated federal territory
+- **Claim:** Airports (and other locations, e.g., within 500 feet of a school) can be designated federal/military territory under the Buck Act (1940), placing them under federal/military jurisdiction where ordinary constitutional rights don't apply — explaining TSA searches and being removed from a flight for a shirt.
+- **Support:** Buck Act (1940); analogy to a military base requiring a pass and using its own "military script"; comparison to being in a foreign country.
+- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "in the airport is a different jurisdiction than what you think it is... when you're in their sandbox, you're in their jurisdiction" / "So they've made all airports now federal territory. That's why you can't bring in a gun"
+
+### 9/11 as a deliberate distraction to prevent a debt jubilee
+- **Claim:** Under international bankruptcy law, a debt jubilee was scheduled to be announced on September 11, 2001 at 10:00 a.m.; the attacks at 8:45 a.m. were the distraction that prevented the jubilee's announcement and instead triggered another debt restructuring, with the government given roughly a 20-year grace period (to ~2021–22) to decide whether to jubilee the debt or re-collateralize it.
+- **Support:** Timeline coincidence between the alleged jubilee-announcement time and the attack time.
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "the jubilee was supposed to be announced September 11th, 10 a.m. in the morning. Well, what happened at 845 that same day?... It's just a wildest coincidence that happened an hour before they were going to announce the jubilee" / "the people being the beneficiaries of the 1788 First Constitutional Trust."
 
 ---
 
 ## Money and Banking
 
 ### Federal Reserve notes are not your money; you only have use and possession
-- **Claim:** Federal Reserve notes belong to the Federal Reserve. You are merely the beneficiary with equitable title (use and possession), while they retain legal title and control purchasing power.
-- **Support:** The word "note" means debt; the top of the bill says "Federal Reserve Note."
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "Even though the money's in your pocket, it's not legally yours. You can't control it. Only they can control it"
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "Because it's their money, they can alter or change the purchasing power of the dollar"
+- **Claim:** Federal Reserve notes belong to the Federal Reserve. A holder is merely the beneficiary with equitable title (use and possession), while the Fed retains legal title and controls purchasing power — able to devalue it at will. FRNs are debt instruments/IOUs ("military scrip"), not lawful money; because no lawful money is tendered in a purchase, legal title to the purchased asset can't legally move to the buyer, so property must be held in trust instead.
+- **Support:** Text on the bill ("Federal Reserve Note"); comparison to Monopoly money; contrast with pre-1933 gold/silver-backed currency.
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "Even though the money's in your pocket, it's not legally yours... Because it's their money, they can alter or change the purchasing power of the dollar" / "that was the whole reason to get rid of the real money in 33."
+- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "Whose money is it?" ... "It's the Federal Reserve's."
+- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "You might as well call the FRNs a military script. It's the military's money." / "without lawful money, the legal title to assets don't move"
+- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "more than likely federal reserve notes, us dollars that are debt instruments" / "They're IOUs. You didn't lawfully pay for it"
 
-### Federal Reserve notes are debt instruments / military scrip
-- **Claim:** Federal Reserve Notes are debt instruments (IOUs), not lawful money; they are essentially military script or Monopoly money. Because purchases are made with IOUs, the state retains legal title to property and places it in trust.
-- **Support:** KL contrasts FRNs with pre-1933 silver coin as the lawful species of money required to convey legal title.
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "You might as well call the FRNs a military script"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "military scripts is literally just monopoly money"
-- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "more than likely federal reserve notes, us dollars that are debt instruments"
-- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "They're IOUs. You didn't lawfully pay for it"
-
-### Gold confiscation in 1933 removed lawful money to enable fiat debt expansion
-- **Claim:** The 1933 confiscation of gold removed the lawful money backing, forcing all property into trust because legal title cannot move without real money. This allowed continuous debt restructuring and printing of fiat currency.
-- **Support:** Compares modern dollars to Monopoly money—value is purely perceived.
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "without real money, the legal title can't move anywhere. So we got to hold it in trust"
+### Gold confiscation in 1933 and dollar devaluation
+- **Claim:** The 1933 confiscation of gold (all persons required to surrender gold to the Federal Reserve by May 3, 1933) removed the lawful money backing, forcing property into trust because legal title cannot move without real money; the government then revalued gold from roughly $20/oz to $35/oz (about a 75% devaluation of the dollar's purchasing power against gold). KL estimates the dollar has since lost roughly 96–97% of its purchasing power against gold.
+- **Support:** Historical gold-price figures; $20-suit-then vs. $2,300-suit-now (≈1 oz. gold in both cases) comparison; cites Thomas Jefferson's warnings against a central bank and a Henry Ford quote about revolution if people understood banking.
 - **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "they took away the lawful money in 33. And then all of this crap came in strictly because they took away the lawful money"
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "without real money, the legal title can't move anywhere. So we got to hold it in trust"
+- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "all persons must deliver their gold to the Federal Reserve Bank by May 3rd, 1933" / "gold was revalued at right around $35 an ounce. Almost a 75% increase" / "the dollar has literally lost somewhere around 96 to 97% of this purchasing power since the Federal Reserve got involved"
 
-### Federal Reserve notes vs. lawful money (Constitutional gold/silver)
-- **Claim:** Federal Reserve notes are unconstitutional currency because the Constitution mandates gold and silver as money; silver certificates were lawful money, whereas current notes are fiat currency with no intrinsic value outside the federal jurisdiction.
-- **Support:** KL connects the 1933 national emergency to the inability to redeem gold certificates and the subsequent confiscation of gold from U.S. citizens.
-- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "Silver certificate, that's the real money, lawful money. That's money, yeah, that's lawful money, that's not currency because that would be constitutionally illegal"
+### Federal Reserve notes vs. lawful money (constitutional gold/silver)
+- **Claim:** Federal Reserve notes are unconstitutional currency because the Constitution requires gold and silver as money; silver certificates were lawful money (redeemable, maintaining purchasing power), whereas current notes are fiat "legal tender" with no intrinsic value that loses purchasing power over time.
+- **Support:** Displays a silver certificate on screen as contrast.
+- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "Silver certificate, that's the real money, lawful money" / "Lawful money maintains its purchasing power. Legal money, legal tender, fiat does not"
 - **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "the constitution states that all money is supposed to be backed by gold and silver"
+
+### Vehicle-title securitization, rehypothecation, and fractional-reserve financing
+- **Claim:** When the state takes legal title to a vehicle via registration, it bundles/securitizes those titles as bank collateral; under fractional-reserve rules, banks can lend out roughly 10–30x that value, and London-style hypothecation practices allow the same security to be resold 10–100 times to pension funds — meaning potentially 100–300 different parties hold claims on the same underlying car. KL characterizes this as how government is financed today, and as effectively a Ponzi scheme.
+- **Support:** Illustrative math (e.g., a $25,000 car → ~$4,000 in bundled title-backed securities → loaned out 10–30x); reference to London branch offices of major U.S. banks as hypothecation hubs.
+- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "It's putting things in trust, taking the legal titles, giving you the equitable title, and then using those as the collateral" / "there's probably between 100 and 300 people that have all got the same claim on the same car" / "when you add that in on the fractional reserve banking... that's just a Ponzi scheme"
+
+### Stock "ownership," tokenization, and "The Great Taking"
+- **Claim:** Retail stock ownership is effectively a derivative — actual securities are held at clearinghouses, not by individual owners. KL connects this to reported plans (citing the documentary "The Great Taking" and BlackRock commentary) to "tokenize everything," potentially including turning people into tradeable/real-world assets tied to life-outcome betting — which he calls "modern serfdom."
+- **Support:** References to "The Great Taking" (David Webb); BlackRock tokenization remarks.
+- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "The actual stocks are held at a clearing house or held at a different type of agency" / "It's called modern serfdom"
 
 ---
 
 ## Taxation and Liability
 
 ### Income tax is constitutional only for corporations/artificial persons, not the living man
-- **Claim:** *Pollock v. Farmer* (1895) ruled income tax unconstitutional for natural private persons but permissible on corporate income. The 16th Amendment only authorized taxing corporations/straw men.
-- **Support:** *Bruce Shaver v. Union Pacific* (1916) upheld the 16th Amendment's authority to tax corporations under Article 1.
+- **Claim:** *Pollock v. Farmers' Loan & Trust Co.* (1895) ruled income tax unconstitutional for natural private persons, but income derived from a corporation is taxable. Because *Santa Clara County v. Southern Pacific Railroad* (1886) defined a corporation as a "person," and the 16th Amendment authorizes taxing corporations, the government taxes the strawman corporate "person" — never the natural man directly.
+- **Support:** *Pollock v. Farmers' Loan & Trust Co.* (1895); *Brushaber v. Union Pacific R.R.* (1916, upholding the 16th Amendment's authority to tax corporations under Article 1); *Santa Clara Cty. v. S. Pac. R.R.* (1886).
 - **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "Congress has the authority to tax corporations... today, they're not taxing you. They're taxing your straw man corporation"
 - **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "Supreme Court says it's unconstitutional for natural private persons. But you could tax the income from a corporation"
+- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "You cannot tax a natural person, but you can tax an artificial person like a corporation."
 
 ### Filing a 1040 and taking deductions voluntarily makes you liable
-- **Claim:** By filing a tax return, taking the standard deduction (a benefit), and signing under penalty of perjury, you voluntarily declare yourself liable for the straw man's tax.
-- **Support:** No gun was held to your head; you did it voluntarily, which is what makes the system enforceable.
-- **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "they gave you a deduction... So did you just take a benefit?... So you just locked yourself into that... Did they hold a gun to your head? Not at all. Not at all. So you did it to yourself. Voluntarily"
+- **Claim:** By filing a tax return, taking the standard deduction (a "benefit"), and signing under penalty of perjury, a person voluntarily declares themselves liable for the strawman's tax — "no gun was held to your head."
+- **Support:** 1040 walkthrough analogy.
+- **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "they gave you a deduction... So did you just take a benefit?... Did they hold a gun to your head? Not at all... So you did it to yourself. Voluntarily"
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "By accepting the benefit, you just locked yourself into that contract in that jurisdiction."
 
-### Income tax as voluntary
-- **Claim:** Payment of income tax is voluntary; once a person steps out from under the federal umbrella into the proper jurisdiction (e.g., by becoming a private citizen or placing assets in a private trust), they are no longer liable for income taxes.
-- **Support:** KL calls it a "volunteer system" and ties tax liability to jurisdiction rather than geography.
-- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "It's a volunteer system to pay income taxes. You don't have to unless you want to stay underneath their umbrella"
-- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "if you're no longer U.S. citizens, you're no longer liable to pay income taxes"
+### Income tax as a voluntary system
+- **Claim:** Payment of income tax is a "volunteer system" tied to U.S. citizen status; once a person steps out from under the federal umbrella (e.g., by correcting political status and/or placing assets in a private trust), they are no longer liable, including for capital gains on appreciated property.
+- **Support:** Personal example: KL placed his parents' rental properties into a private business trust and, as executor, sold them after their deaths without owing capital gains tax across decades of appreciation; also references purchasing "revocation of election" paperwork from Weiss-Paris.
+- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "if you're no longer U.S. citizens, you're no longer liable to pay income taxes" / "he didn't have to pay any capital gains tax on his returns" / "it still works in this country to revoke your voluntary election to pay taxes"
+- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "It's a volunteer system. It's a volunteer system to pay income taxes"
 
-### Registration = surrender of legal title
-- **Claim:** The word "registration" derives from "regal," meaning giving to the King. Registering a vehicle or other property places legal title (controlling interest/ownership) into the state's trust; the registrant receives only equitable title (use and possession).
-- **Support:** KL uses the car-registration example to explain why the state can mandate plates, insurance, and inspections.
-- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "when you register a car, regal registration comes from the word regal"
-- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "regal means you're giving to the King. So you're placing it in the trust"
-- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "I'm going to place it in trust for your benefit"
-- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "You have it registered. You have plates on it and you have insurance"
+> **Contradiction (internal to episode 09):** KL states plainly that once someone is "no longer U.S. citizens," they are "no longer liable to pay income taxes" — framing the remedy as an exit from U.S.-citizen political status. Yet elsewhere in the same episode he explains the DBA/private-trust "vessel" is meant precisely to let the real man keep operating *within* "the matrix" (the public commercial system) rather than leave it — "we create a DBA so we can use it in the matrix. That's our vessel that we want to use. It's not to get out is to actually use it" — and he separately tells listeners not ready to go fully private to use *other* teachers' processes to fight cases "from the U.S. citizen side." He does not clearly reconcile whether the underlying political status changes, or only the liability/vessel used to interact with the system changes, when these two framings sit side by side.
+> Source: [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "if you're no longer U.S. citizens, you're no longer liable to pay income taxes" vs. [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "we create a DBA so we can use it in the matrix. That's our vessel that we want to use. It's not to get out is to actually use it" and "you can't just jump into the private and expect to be an expert in winning court"
 
-### Loss of legal title to property in 1933
-- **Claim:** In 1933 the federal government took legal title to all registered property and held it in trust; this is why car registration, property taxes, and the inability to truly own a home exist—citizens only hold equitable title.
-- **Support:** KL connects this to the removal of gold-backed money and the creation of trust accounts under the banking emergency.
+### Registration = surrender of legal title (cars, homes)
+- **Claim:** "Registration" derives from "regal" — giving to the king. Registering a vehicle or other property places legal (controlling) title into the state's trust; the registrant receives only equitable title (use/possession). This is why the state can mandate plates, insurance, and inspections, and why a car can be repossessed/seized.
+- **Support:** Etymology; car-registration example.
+- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "if they have legal title, which is controlling interest, you understand now why they can mandate. You have it registered"
 - **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "They took away the legal title, held it in trust for us"
-- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "today we pay our property tax bill just like a feudal fealty"
+
+### Property tax and income tax as modern feudal fealty; eminent domain as feudal remnant
+- **Claim:** The current legal system is a form of modern feudalism — land is held in trust with use-rights granted to a "grantee"/vassal by a superior (the state) who retains controlling title. Property tax is the equivalent of feudal fealty payments; income tax is a similar feudal obligation to the state. Eminent domain is a direct continuation of a feudal lord's right to reclaim granted land, with "just compensation" merely echoing the old feudal relationship.
+- **Support:** History of feudalism (9th–15th century Europe, three estates of the realm); Game of Thrones analogy; commendation/homage/fealty ceremony; "escheat" terminology.
+- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "we pay our property tax bill just like a feudal fealty" / "we owe income taxes to the state in a similar feudal relationship" / "even eminent domain...is, again, this feudal land relationship"
 
 ---
 
 ## Courts and Jurisdiction
 
 ### Courts obtain jurisdiction only by your consent and words
-- **Claim:** Courts do not have automatic jurisdiction over you. They trick you into giving it by asking questions ("Do you understand?" / "Are you Mr. Smith?"). Saying "yes" makes you the trustee/defendant of the straw man trust.
-- **Support:** Cites *Hale v. Henkel*: rights are restricted only to the extent voluntarily surrendered.
+- **Claim:** Courts do not have automatic jurisdiction; they trick a person into giving it via questions ("Do you understand?" / "Are you Mr. Smith?"). Answering "yes" makes you trustee/defendant of the strawman trust. The words "guilty" (from "gild," to pay) and "defendant" (one who "defends the trust") are trust-law language in disguise.
+- **Support:** Cites *Hale v. Henkel* (rights restricted only to the extent voluntarily surrendered); etymology of "guilty"/"defendant"; scripted courtroom examples.
 - **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "they don't have jurisdiction until you give it. So quit thinking that they automatically have it. They don't. They have to trick you into giving it to them"
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "When you said the word, yes, you went under their jurisdiction. Under their jurisdiction, you said, I'm guilty and I'm going to pay"
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "are you the trustee of the Mr. Rice Trust?" / "you've already agreed that you're going to pay... That's what you're saying when you say not guilty."
+- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "the word guilty comes from Gildan again, meaning to pay or not pay" / "I am the grantor beneficiary of the Decedent Legal State Trust... I have the power to appoint the trustee and I hereby appoint the court as trustee."
 
 ### Article 3 courts still exist but are hidden; you must demand them
-- **Claim:** Article 3 (equity/land) courts still exist, but the default is Article 1/2 statutory jurisdiction. You must explicitly ask for original/exclusive equity jurisdiction in your pleadings or you waive it.
-- **Support:** Cites the 1938 *Erie Railroad* and *Carolene Products* cases merging equity into statutory law to hide the remedy.
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "You have to specifically ask for it in your pleadings... You challenge jurisdiction and make them prove it, which they cannot if you have your ducks in a row. Then the case just gets dismissed"
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "there really are Article three courts and there really is a courtroom for Union state citizens. You don't have to fight them in their courts"
-
-### Hiring an attorney waives your Bill of Rights
-- **Claim:** When you hire an attorney, you cease to be an individual and become one of "the people" (a group), which waives your unalienable individual rights and places you under the attorney's jurisdiction.
-- **Support:** He argues you become two persons (you + attorney), which is a group, and groups lose constitutional rights.
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "when you hire an attorney, guess what you just did? You just waive your Bill of Rights... They don't tell you that, do they? But that's exactly what happened"
-- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "when they hire an attorney, they waive all their constitutional rights. So how can you expect to win any case?"
+- **Claim:** Article 3 (equity/land) courts still exist, but the default is Article 1/2 statutory jurisdiction. A litigant must explicitly ask for original/exclusive equity jurisdiction in pleadings or waive it. Equity was formally merged into common law/statutory jurisdiction under martial law by 1933–38, hiding the remedy, though five states (KL names Tennessee, New Jersey, Illinois, and says he can't recall the other two) allegedly still let a party explicitly request equity court.
+- **Support:** Cites 1938 *Erie Railroad* and *Carolene [Caroline] Products* as merging equity into statutory law; procedural pleading requirement.
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "You have to specifically ask for it in your pleadings... You challenge jurisdiction and make them prove it" / "there really are Article three courts and there really is a courtroom for Union state citizens."
+- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "you can ask for original jurisdiction. We call it exclusive equity... But if you don't, you waived." / "you don't argue the case. You argue the jurisdiction."
+- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "Tennessee, New Jersey, Illinois, and I can't remember the other two that actually have it out in the open" / "Only an article three judge in an equity court is allowed to hear matters pertaining to constitutionally secured rights"
 
 ### Common law outlawed (1938)
-- **Claim:** The 1938 Supreme Court decisions in *Erie Railroad* and *Caroline Products* outlawed common law on the federal level, overruled *Swift v. Tyson*, rendered the Seventh Amendment moot, and replaced common-law rights with statutory privileges.
-- **Support:** KL notes that federal courts now respond to common-law demands with "failed to state a claim upon which relief can be granted."
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "They outlawed common law in 1938"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "one's called the Erie Railroad case and the second case of the Caroline products case, both in 1938"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "This is where they outlaw basically common law on a federal level"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "He has failed to state a claim upon relief can be relief can be granted"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "The private American national citizen can no longer claim he has common law rights"
+- **Claim:** *Erie Railroad Co. v. Tompkins* and *United States v. Carolene Products Co.* (both 1938) outlawed common law on the federal level, overruled *Swift v. Tyson*, rendered the Seventh Amendment effectively moot, and replaced common-law rights with statutory privileges/rules of civil procedure. Federal courts now respond to common-law claims with "failed to state a claim upon which relief can be granted." A "U.S. citizen" has no common-law rights and cannot successfully invoke common law without first correcting political status.
+- **Support:** Named 1938 cases; anecdote of two people who tried claiming "common law" without first fixing status and were sent for a psychiatric evaluation.
+- **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "a u.s citizen does not have common law rights right so you can't go in there just claim a common law you got to first prove you're not a u.s citizen" / "oh you hold on we need a psych eval on this guy"
+- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "They outlawed common law in 1938" / "Swift versus Tyson overrules no more federal general common law of any type" / "he has failed to state a claim upon relief can be relief can be granted"
+- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "Common law is illegal. It's been outlawed since 1938."
 
 ### Equity as the superior remedy
-- **Claim:** Equity is superior to common law because equity is flexible and can award monetary damages, whereas common law is rigid and offers no remedy if no exact precedent exists. The founders imported English equity alongside common law.
-- **Support:** KL advises plaintiffs to demand equity jurisdiction rather than common law, and states equity courts are where land and constitutional citizenship rights are properly claimed.
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "I personally am trying to tell you that equity is better than common law"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "equity, you can get money, monetary damages"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "What they brought over was common law and English equity"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "That's where you get your land rights"
+- **Claim:** KL personally believes equity is superior to common law: equity is flexible and can award monetary damages, while common law offers no remedy absent exact precedent. The founders imported both English common law and English equity, not just common law; where land/trust rights are actually claimed is equity, not statutory law.
+- **Support:** Personal opinion, explicitly labeled as such.
+- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "I personally am trying to tell you that equity is better than common law." / "What they brought over was common law and English equity" / "Not I want common law. I'm just telling you it's a dead end. That's just my opinion."
 
-### Article III Equity vs. Article I/II Statutory Courts
-- **Claim:** There are two law forms—common law/statutory ("ant law") and equity. Since 1933 they were merged under one roof, but lawyers are only taught the statutory side; equity is where trusts are adjudicated and constitutional rights are protected.
-- **Support:** KL states that all trusts are adjudicated in equity, and the law society (statutory bar) is not supposed to adjudicate trusts.
-- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "All trusts are adjudicated in equity. The law society is not supposed to adjudicate trust"
-- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "unless you can prove you're a private union state citizen, you can't access the Article 3 judiciary"
+### Trust disputes, mortgages, and probate must be seen by an Article 3 judge
+- **Claim:** All trusts (and, KL claims, all mortgages and probate cases) fall under Article 3 jurisdiction per Article 3 §2 cl. 1 ("the 3-2-1 clause" — judicial power extends to all cases in law and equity). If a defendant claims beneficiary status of a trust and gets the judge to acknowledge the trust exists, the proceeding's jurisdiction converts to Article 3.
+- **Support:** Article 3 §2 cl. 1 text.
+- **Source:** [03](../TXT/03_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 2_7c931bc4.txt) "all mortgages article 3 section 2 clause 1 all have to be seen by an article 3 judge all probate cases have to be seen by an article 3 judge" / "if you keep claiming your beneficiary of trust and you get the judge to see the trust or admit there's a trust boom you just converted the jurisdiction"
 
-### Challenging jurisdiction / Amicus Brief
-- **Claim:** The easiest and most successful defense is to challenge personal jurisdiction before the case begins, using an amicus brief filed as a "friend of the court" who holds an equitable interest in the straw-man trust, thereby forcing the court to prove jurisdiction or dismiss the case.
-- **Support:** KL states that admitting you are the all-caps name makes you the trustee; instead, you must claim to be the beneficiary with an equitable interest.
-- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "I use an amicus brief if I go have to go to court"
-- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "An amicus is coming from the position that you're a friend of the court"
-- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "I'm here to argue whether you have jurisdiction over me or not"
-- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "it's the easiest defense to win because you're forcing them to prove they have jurisdiction"
+### Hiring an attorney waives your Bill of Rights
+- **Claim:** Hiring an attorney is, in KL's framing, itself fatal: because rights are individual and non-transferable, retaining counsel makes "you" into two persons (a "group"), waiving individual constitutional rights and surrendering jurisdiction to the court. He applies this to explain outcomes for January 6 defendants and for David Strait's ex-wife Bonnie's failed appeal.
+- **Support:** "Attorney" etymology (from Black's Law: "to turn," one who takes property from one person and gives it to another); J6 and Strait-family examples.
+- **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "to a turn a verb is to take property from one person and give it to another" / "it's insanity to ever hire a lawyer you just gave away everything"
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "when you hire an attorney, guess what you just did? You just waive your Bill of Rights"
+- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "What happens when you hire an attorney? You just waive your constitutionally secured rights." / "She hires another attorney, voluntarily consents, waives her constitutional rights." (re: Bonnie Strait)
+- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "when they hire an attorney, they waive all their constitutional rights. So how can you expect to win any case?"
 
-### Hale v. Henkel and surrender of rights
-- **Claim:** Per *Hale v. Henkel*, individual rights are restricted only to the extent they have been surrendered by the citizenship to the agencies of government. Signing government contracts (passport, bank accounts, licenses) constitutes a voluntary waiver or surrender of rights.
-- **Support:** KL stresses that no one can take unalienable rights; you can only waive or surrender them under contract.
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "Supreme Court Hale versus Henkel that we went over on the first one"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "The court ruled, quote, the right of an individuals are restricted only to the extent that they have been surrendered"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "When you contract, you can be given up your rights"
+### Challenging jurisdiction / amicus brief as the core defense
+- **Claim:** The easiest, most effective legal defense is challenging in personam jurisdiction before the case is argued on the merits, using an amicus brief filed as a "friend of the court" holding an equitable interest in the strawman trust — forcing the court/prosecution to prove jurisdiction or dismiss. KL says he has a 32-page brief used by other students/teachers' followers to explain their citizenship status when pushed into the wrong court, and claims this approach is grounded in roughly 100–200 years of constitutional law with 7–10 supporting cases.
+- **Support:** Admitting you are the all-caps name makes you the trustee; instead, claim beneficiary status with an equitable interest.
+- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "I have a 32 page brief that they can use to explain their citizenship status"
+- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "I use an amicus brief if I go have to go to court" / "I'm here to argue whether you have jurisdiction over me or not" / "it's the easiest defense to win because you're forcing them to prove they have jurisdiction" / "the chances of winning shoot up to 90 percent"
+
+### Hale v. Henkel and voluntary surrender of rights
+- **Claim:** Per *Hale v. Henkel* (1906), individual rights are restricted only to the extent they have been voluntarily surrendered by the citizenship to agencies of government. Unalienable rights cannot be taken or even given away outright — only waived/surrendered by contract (passports, driver's licenses, bank accounts, TSA Precheck, voter registration, NFL contracts, etc.).
+- **Support:** *Hale v. Henkel* (1906); Colin Kaepernick/Tim Tebow NFL-contract examples.
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "The right of the individuals are restricted only to the extent that they have been voluntarily surrendered by the citizenship to the agencies of government." / "You have your unalienable rights. No one can take them. No one can steal them. The only thing that can happen is you can waive them."
+- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "the right of an individuals are restricted only to the extent that they have been surrendered by the citizenship to the agencies of government" / "no one can take your unalienable rights away from you. You can't even give them away."
+
+> **Contradiction (internal to episode 02):** KL frames government authority as strictly consent-based — "that corporation, that federal government has no authority, no jurisdiction over the real man, unless we contract with them" and the entire *Hale v. Henkel* consent framework running throughout. Yet in the same episode he cites *U.S. v. Slater* (1982) approvingly for the opposite default: "unless the defendant can prove that he's not a citizen of the United States, the IRS has a right to inquire and determine a tax liability," and separately says "You are guilty until you can prove otherwise" under Article One jurisdiction. This creates tension between his consent-based framework (authority requires an affirmative contract, and absent one there is no jurisdiction) and his own acknowledgment that courts/IRS in practice presume citizenship/liability, putting the burden on the individual to rebut rather than on the government to first prove a contract exists.
+> Source: [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "has no authority over you unless you contractually give it to them" vs. [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "unless the defendant can prove that he's not a citizen of the United States, the IRS has a right to inquire and determine a tax liability" and "You are guilty until you can prove otherwise"
 
 ---
 
 ## Remedies and Status Correction
 
-### Remedy starts with a Declaration of Independence / political status change
-- **Claim:** Just as the Founders published a Declaration, you must publish a declaration renouncing U.S. citizen status and claiming American national / Union State citizen status. This is the first step to remove the presumption of U.S. citizenship.
-- **Support:** Cites Wizard of Oz analogy: "you've always had the power all along. You just didn't know it."
-- **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "You have to make a declaration... I'm not going to be a U.S. citizen. I'm going to undo that stuff... I'm going to become an American national"
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "what part of what I do is exactly exactly what the founding fathers did. I prepare a declaration of becoming dependent. And then I publish it and then actually it becomes legal and the government accepts it"
+### Remedy starts with a declaration of political status
+- **Claim:** Just as the Founders published the Declaration of Independence, a person must publish their own declaration renouncing U.S.-citizen status and claiming American national/union-state-citizen status — described as the "due process" required to change political allegiance and the first step to remove the presumption of U.S. citizenship. KL frames the Declaration (not the Constitution) as the actual source of rights.
+- **Support:** Wizard of Oz analogy ("you've always had the power all along"); frames his own paperwork practice as directly modeled on the Founders' declaration.
+- **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "You have to make a declaration... I'm going to become an American national" / "It isn't the constitution. The constitution was the restructuring of it."
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "your rights come from... it's not from the Constitution... in the declaration is where we declared what we wanted" / "you have to create your own declaration and you have to publish it. That's called due process."
+
+### No statute of limitations on fraud — retroactive rescission of prior "consent"
+- **Claim:** Because the original conferral of U.S.-citizen/strawman status resulted from "color of law" (which KL calls fraud), a person can go back decades later and rescind it, since fraud has no statute of limitations.
+- **Support:** Characterizes citizenship-conferral mechanisms as "colorable"/fraudulent and thus undoable by declaration.
+- **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "there's no statute of limitations on fraud." / "Because they're trust agreements and because they're colorable, you can undo it."
+- **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "Fraud has no statute of limitations"
+
+> **Contradiction (internal to episode 01):** KL calls the original conferral of U.S.-citizen status "color of law" fraud, framing the government's authority over the "citizen" trust as illegitimate ("Because they're trust agreements and because they're colorable, you can undo it"). Yet moments later he affirms he is a willing, contractual party to the *original* constitutional trust and must satisfy that same governmental court system to obtain any actual remedy: "I am a party to that constitution... I'm claiming beneficiary status of that trust agreement... I swear allegiance to the original de jure government"; and he concedes the government "can throw you in jail... because it's under military occupation" unless a person has "cleared themselves through their system." The rhetoric shifts between "the system is fraudulent, mere color of law" and "I am a lawful, willing party who must satisfy their court system" without KL flagging the shift — his resolution (only the *citizen* trust was fraudulent; the *beneficiary* trust is legitimate and voluntarily chosen) is implicit rather than stated.
+> Source: [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "Because they're trust agreements and because they're colorable, you can undo it." vs. [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "I am a party to that constitution... I swear allegiance to the original de jure government. I get to have the Bill of Rights" and "they can come and scoop you up right now to put you in jail, no matter what you say, because you haven't cleared yourself through their system"
 
 ### File a DBA for the all-caps name to become the holder
-- **Claim:** At age 18, you should file a DBA (Doing Business As) for your all-caps name at the county. This makes you the holder of the artificial entity and creates a government witness that the all-caps name is not the living man.
-- **Support:** With a DBA, you can open a non-interest-bearing checking account that the IRS cannot seize, and you can introduce the DBA as evidence in court.
-- **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "you want to do business as your all-cap name because you would assume your name is your upper lowercase name... now you want a government witness"
-- **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "Your honor, that name or whatever is on your paper, that's not me. I got proof of it. I got a DBA. It's this right here. The county says it's not me"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "if you obtain a DBA, others call it an assumed name, trade name, fictitious name"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "This registers the all caps name as a business"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "Now you have standing in their court"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "You have permission to be heard in their court system"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "hey, that's a business, that's not me"
-- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "we create a DBA so we can use it in the public"
+- **Claim:** At age 18, a person should file a DBA (doing business as) for their all-caps name at the county — the step the system itself contemplates but doesn't advertise. This registers a government witness that the all-caps name is a business, not the living man, making the individual merely its "holder"/beneficiary. A DBA also enables opening a non-interest-bearing checking account the IRS cannot seize, and the paperwork can be introduced as evidence in court.
+- **Support:** Procedural description (~$50 filing, publish in a paper for 3 weeks in most states); IRS-seizure contrast between personal and business accounts.
+- **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "you want to do business as your all-cap name because you would assume your name is your upper lowercase name... now you want a government witness" / "The county says it's not me."
+- **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "now the irs can't confiscate any funds out of that business account because it's not you"
+- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "if you obtain a DBA, others call it an assumed name, trade name, fictitious name" / "This registers the all caps name as a business. The all caps name is not you." / "Now you have standing in their court."
+- **Source:** [08](../TXT/08_20260805_The KEY To FREEDOM Is Education w Dr. KL Beneficiary _Lesson _4.5__c230ca00.txt) "why do we use that as the vessel in commerce instead of your straw man"
+- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "we create a DBA so we can use it in the matrix. That's our vessel that we want to use."
 - **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "birth certificate authentication and the DBA doing business as"
 
-### Adult name change merges titles and "kills" the straw man
-- **Claim:** Filing an adult name change in court merges the all-caps name (afterbirth/dead entity) with your upper-lowercase name (living man). Because the living man has the superior/higher right by nature, the straw man trust is extinguished, making the all-caps name a true decedent.
-- **Support:** Once the straw man is dead, you can convey all property into a new private trust where you are the beneficiary and government officials are the trustees.
+### Adult name change merges titles and "kills" the strawman
+- **Claim:** Filing an adult name change in court merges the all-caps name (afterbirth/dead entity) with the upper/lowercase name (the living man). Because the living man has the superior/higher right by nature (his parents granted the name), the strawman trust is extinguished ("collapsed"/"killed") when merged, making the all-caps name a true legal decedent. This also unifies both legal and equitable title in the individual's control, whereas simply asserting "I'm a man" without a judge's order does not work.
+- **Support:** Analogy to a woman's legal name change at marriage; "higher right by nature" reasoning; contrast between mere assertion and a court-ordered decree as evidence.
 - **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "When you do an adult name change in the courts, you merge those two titles back together... that's how the straw man is killed legally"
 - **Source:** [03](../TXT/03_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 2_7c931bc4.txt) "go to court and they change my name i collapse this blue trust okay it goes away zips into nowhere then i convey all the property... and put it into a private trust that i created and i control where i'm the beneficiary"
+- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "you get to control the name and they don't" / "I get stuff that they're going to go, oh my God, I can't argue with a judge's order"
 
 ### Create a private trust to interact with commerce without personal liability
-- **Claim:** Since all commerce is artificial and requires an artificial entity, you should create your own private trust with its own artificial entity (game piece). As the creator/grantor, you pick the law form (Constitution/Bill of Rights), and you remain the beneficiary while assigning government officials as trustees.
-- **Support:** Your driver's license, bank accounts, and vehicles are held in the trust's name; when police run your name, it returns "Do not detain, do not arrest."
-- **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "So the artificial entity that you created has a driver's license and that entity can interact with a bank account and do everything else that most US citizens can do, but with the rights of an American citizen, without the obligations and duties to the corporation"
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "I stay in the republic. I don't step foot on the democracy. OK, I have my private trust do that. OK, and he does all those things. He's the one that has the license. It's his name, not my name"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "nobody said it's against the rules that you could create your own entity"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "it's my artificial entity doing not me"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "My entity is in the their seat jurisdiction"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "claiming beneficiary status in their jurisdiction"
-- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "if you accept the benefit, you accept the liability"
+- **Claim:** Since all commerce is artificial and requires an artificial entity to transact (an insurance company cannot insure a natural man, only an artificial entity), a person should create their own private trust with its own artificial entity ("game piece") — as creator/grantor, they pick the law form (Constitution/Bill of Rights) governing it, remain beneficiary, and can appoint government officials as trustee (e.g., appointing the court, or the DMV, as trustee). Driver's license, bank accounts, and vehicles are held in the trust's name; when police run the name, KL says it returns "do not detain, do not arrest."
+- **Support:** Monopoly game-piece analogy; personal anecdote of a TSA agent redirecting him and his wife to a shorter, no-search line, which he offers as evidence the status change is recognized in government databases; personal practice of stamping "beneficiary" on his driver's license and sending a letter to the DMV.
+- **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "So the artificial entity that you created has a driver's license and that entity can interact with a bank account and do everything else that most US citizens can do, but with the rights of an American citizen, without the obligations and duties to the corporation" / "Do not detain, do not arrest."
+- **Source:** [03](../TXT/03_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 2_7c931bc4.txt) "if i assign a government official as the trustee of my private trust guess what he has to follow the constitution" / "the driver's license is in the name of my private trust okay which you have control and i'm the beneficiary of that trust" / "i stamped the word beneficiary right on my license"
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "I stay in the republic. I don't step foot on the democracy. OK, I have my private trust do that." / "it comes up as do not detain, do not arrest, and you're let go" [10]
+- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "I appoint the federal government as the trustee just like back in 1789" / "my automobiles are registered in the name of the private business trust"
+- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "you can create this artificial entity...but you do it from a distance of it's my artificial entity doing not me" / "in trust law, if you accept the benefit, you accept the liability"
 
-### Private business trusts as remedy
-- **Claim:** Private business trusts exist under equity jurisdiction (not statutory code) and are the proper vehicle to remove property and status from federal jurisdiction; KL has written hundreds and none have been challenged as sham trusts or by the IRS.
-- **Support:** KL cites Black's Law Dictionary, Weiss-Paris law firm, and 26 USC to rebut claims that business trusts do not exist; he also gives a family example of avoiding capital gains tax via a private trust.
-- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "I've written hundreds of trust, hundreds, both private and public. And I've never had one of my trust be considered a sham trust"
-- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "he didn't have to pay any capital gains tax on his returns"
+### Practical enforcement outcomes: traffic stops and honor-based interaction
+- **Claim:** With a car/license registered to a private trust, a person can truthfully tell an officer "that's not my car"/"that's not my license" (they belong to the trust), which KL says causes many tickets to be dismissed, provided the person remains calm and non-confrontational rather than arguing "traveling not driving" on the spot. KL warns that purely verbal defenses are risky for inexperienced practitioners (citing a student who lost by answering "yes" instead of correctly denying ownership) and does not recommend driving without a license, plates, registration, or insurance.
+- **Support:** Walmart-truck-driver analogy (driver isn't personally liable for the company truck); anecdote of "Ms. Jackson" losing by answering "yes"; 1904/1907/1911 "traveling vs. driving" case history; his own preference for a peaceful, non-belligerent approach, including giving ID "under threat, duress and coercion" rather than refusing outright.
+- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "if I have a private business trust as the registered owner, absolutely for sure parking tickets go away" / "she said, yes, which she should have said, no, it's I don't have a, it's not mine"
+- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "Please do not drive without a license, license plates, registration or insurance. You're asking for trouble." / "under threat, duress and coercion, I will supply an ID" / "I don't take the belligerent avenue. I take the more peaceful avenue." / "freedom equals responsibility. If you want to govern yourself, you have to be responsible." / "if I run over someone with my car, I can be given a ticket to be brought into their jurisdiction for remedy"
+- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "People like David Strait drive a truck without license or registration. Of course, he got arrested"
 
-### Freedom USB Package / Educational Preparation
-- **Claim:** Before engaging in private trust creation, individuals must complete preparatory educational steps: DBA filing, double authentication of short- and long-form birth certificates, and study of trust agreements, so they have admissible government-signed evidence of their true political status.
-- **Support:** KL and Chris describe the USB as a way to vet students and ensure they understand the process before entering private teaching, saving months of back-and-forth.
-- **Source:** [08](../TXT/08_20260805_The KEY To FREEDOM Is Education w Dr. KL Beneficiary _Lesson _4.5__c230ca00.txt) "double authenticated certificate of library"
-- **Source:** [08](../TXT/08_20260805_The KEY To FREEDOM Is Education w Dr. KL Beneficiary _Lesson _4.5__c230ca00.txt) "Why do we do that? Well, David, that's the evidence"
-- **Source:** [08](../TXT/08_20260805_The KEY To FREEDOM Is Education w Dr. KL Beneficiary _Lesson _4.5__c230ca00.txt) "That's the evidence of your true union citizenship status"
-- **Source:** [08](../TXT/08_20260805_The KEY To FREEDOM Is Education w Dr. KL Beneficiary _Lesson _4.5__c230ca00.txt) "then we're going to create the trust, which is going to be your new vessel"
-- **Source:** [08](../TXT/08_20260805_The KEY To FREEDOM Is Education w Dr. KL Beneficiary _Lesson _4.5__c230ca00.txt) "stop paying income taxes anymore"
+> **Contradiction (internal to episode 10):** KL is flatly asked whether there is a right to travel and answers "No, you don't," treating this as a fixed jurisdictional fact for anyone outside "the Republic." Yet he frames his entire remedy system (status correction, claiming trust/beneficiary status, equity court access) as restoring effectively that same freedom of movement — e.g., after status correction, a traffic stop supposedly resolves as "do not detain, do not arrest, and you're let go" even without license/registration, and he says the pre-1933 Republic/equity remedy has been continuously available "for the last 91 years" to those who know how to claim it. These are reconcilable under his jurisdiction framework (the right exists but only outside the statutory jurisdiction one has "volunteered" into), but the flat "No, you don't" answer reads in tension with the later claim that the underlying right/remedy has been accessible the whole time.
+> Source: [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "I always get the question, do you have a right to travel? No, you don't" vs. [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "it comes up as do not detain, do not arrest, and you're let go" and "hidden, though available for the pre-March 1933 private Union State citizen, said status being protected for the last 91 years"
+
+### Signing as beneficiary/agent, not trustee, to avoid implied liability (e.g., driver's license, blood draws)
+- **Claim:** When signing government documents such as a driver's license, a person is presumed to sign as trustee (liable) unless they affirmatively sign as beneficiary/"agent of the principal," which negates implied consequences like implied consent to a blood draw.
+- **Support:** Example of police claiming license-holders "agreed" to blood draws via implied consent; ties to trust-law principle that duties arise from conduct even without disclosed terms.
+- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "when we sign a license, we're signing as the beneficiary of the trust, which means it's not our license" / "you see that I signed as the agent of the principal, which means I didn't give you permission"
+
+### IRS Form 56 and Form WBN — proper vs. improper use in claiming trust office
+- **Claim:** IRS Form 56 is meant only to change the fiduciary/trustee of the strawman trust (not to unilaterally self-declare trusteeship); Form "WBN" is the proper form to claim beneficiary status of the "decedent legal estate trust" (SESTA-K trust). If a filer never specifies which trust office they occupy, it is presumed they are the trustee — a mistake KL attributes to Strait's and von Reitz's paperwork (see Critique of Other Teachers, below).
+- **Support:** Describes IRS Form 56 fields; contrasts with WBN.
+- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "form 56... you only use it to change fiduciary trustee duty" / "WBN is the proper form to claim you the beneficiary of the decedent legal estate trust" / "if they fill out a form fifty six and they never claim the office of the trust they're acting under, it's presumed they are the trustee"
+
+### Non-UCC filing (distinct from UCC-1) as a private claim on one's own person/DNA
+- **Claim:** KL does not teach or use UCC-1 filings (public, used for liens against others); he teaches a "non-UCC" filing — private, though publicly recorded — used to make a claim on one's own body/property (DNA), not a lien on someone else's property.
+- **Support:** Distinguishes UCC-1 (associated by KL with "SPC University"-style teachings) from his "non-UCC."
+- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "We do what's called a non UCC and a non UCC is completely out of 80 degrees from a UCC one. It's private, not public." / "I'm going to claim on my... DNA."
+
+### Political status/jurisdiction must not be "commingled" in a single document
+- **Claim:** Mixing public (statutory/U.S. Code) authority with a private-status claim in the same affidavit (e.g., citing 8 U.S.C. §1101(a)(21) while also claiming to be a private "man on the land") makes the document self-contradictory and legally void — one must stay strictly within a single jurisdiction's authority. KL attributes this specific error to both David Strait's and Ana von Reitz's paperwork.
+- **Support:** Logical argument that citing a federal statutory definition as one's "authority" is itself an act of consenting to that statute's jurisdiction.
+- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "When you cite eight U.S.C. 1101 21A and use as your authority the definition under that code... That's called double speak."
+- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "they're claiming to be private, but they're using the public authority to do it, which you can't just can't do" / "if you write stuff like that and in an affidavit and that makes your affidavit untrue. Which makes it nullified." / "I will use Article 4, Section 2 of the Constitution as my authority because that's the land jurisdiction" / "I don't ever use that term because that term is defined under eight U.S. code... I never use a public definition of statutory code definition"
+
+### Preparatory education must precede private-trust work (Freedom USB Package)
+- **Claim:** Before creating a private trust, individuals must complete preparatory steps: DBA filing, double-authentication of birth certificates (county Secretary of State plus further federal-level authentication, "three government witnesses"), and study of trust agreements, so they have admissible, government-witnessed evidence of true political status before that evidence is relied on in court or sent to the IRS. KL writes all paperwork personally (not templates) because the student must be able to personally defend it verbally in court — comparing the written paperwork to a "bachelor's degree" and standing to defend it before a judge to a "master's" thesis defense.
+- **Support:** House-building analogy (pour concrete before framing); description of the Freedom USB package's step order.
+- **Source:** [08](../TXT/08_20260805_The KEY To FREEDOM Is Education w Dr. KL Beneficiary _Lesson _4.5__c230ca00.txt) "That's the evidence of your true union citizenship status." / "the paperwork is the bachelor's degree, and when you got to stand and defend it, that's the master's" / "then we're going to create the trust, which is going to be your new vessel...it won't be a taxable entity" / "It's like building a house. You have to pour the concrete before you frame."
 
 ---
 
 ## Historical Control Mechanisms
 
-### Vatican and Crown control land and people through trust law
-- **Claim:** Since 1213 (King John / Pope Innocent III), the Vatican holds legal title to land; the Crown holds sea jurisdiction; the U.S. holds land jurisdiction. All treaties are trust agreements splitting legal and equitable title.
-- **Support:** Cites Treaty of Verona (1822) as a secret treaty to destroy representative government; cites Treaty of Peace 1783 as a three-party trust (England, Vatican, U.S.).
-- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "the Pope and the Vatican are going to retain the air jurisdiction... And we're going to give the sea jurisdiction to England, to the crown... the United States of America is going to get the land jurisdiction"
-- **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "the Vatican really runs everything. They run the city of London... they get together and have a secret meeting that's called the Treaty of Verona"
-- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "the Holy Alliance was a private trust treaty making international trust law the highest form of law on Earth"
+### Vatican and Crown control land and people through trust law (1213 Holy Alliance)
+- **Claim:** In 1213, King John of England granted all his present and future land holdings (including, per KL, all future-discovered lands such as America) to the Pope/Catholic Church in perpetuity in exchange for absolution — the "Holy Alliance," which KL calls the origin of international trust law as "the highest form of law on Earth." England retained only administrative authority; the Vatican kept legal/controlling title. KL argues this 1213 grant still directly binds America today (despite the U.S. not existing for another ~500 years) because all colonial land grants trace back through the king to the Pope, and because Article 1 §10 cl. 1 of the U.S. Constitution (no state shall impair the obligation of contracts) preserves it. An annual tribute of 700 marks (England) + 300 marks (Ireland) was reportedly required.
+- **Support:** Quotes purported papal letter language; Article 1 §10 cl. 1.
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "the Pope and the Vatican are going to retain the air jurisdiction... And we're going to give the sea jurisdiction to England, to the crown... the United States of America is going to get the land jurisdiction" (re: 1783 Treaty of Peace, discussed alongside the earlier 1213 grant)
+- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "the Holy Alliance was a private trust treaty making international trust law the highest form of law on Earth" / "This conveyance directly affects America today, although the United States did not come into existence for another 500 years" / "the pope has always held a controlling interest in the land, even in America"
+
+### The Magna Carta was declared null and void by the Pope
+- **Claim:** When English barons forced King John to sign the Magna Carta in 1215 to try to overturn the 1213 Holy Alliance, the Pope declared the Magna Carta null and void because the barons lacked standing — they were not parties to his private contract with the king — meaning the document widely credited as a foundation of constitutional rights was voided almost immediately.
+- **Support:** Reference to an unnamed 2013 (800th-anniversary) commentary calling it "the most famous voided document in history."
+- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "the Pope declared the Magna Carta null and void" / "it's called the most famous voided document in history"
+
+### Cestui Que Vie Act of 1666 as template for the strawman trust
+- **Claim:** Following the plague and Great Fire of London (1666), England's Cestui Que Vie Act presumed unknown/missing property owners dead and placed their estates into trust administered by the Crown/Vatican, requiring survivors to "come back and prove who they are" to reclaim their estate — a legal template KL says is directly reused for the modern birth-certificate/strawman trust. He draws the same parallel to Nero's Rome after the 64 A.D. fire, where the Senate similarly took unclaimed estates into trust.
+- **Support:** Historical analogy across three separate "great fire" events (Rome, London, and implicitly the modern birth-registration system).
+- **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "in 1666, uh, they have the plague and the big fire in England... we're going to put all the estates into trust" / "as went on in 1666 in Nero when Rome burnt"
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "We get to the Sessicae V Act of 1666." / "the citizens were presumed dead and the estates were administered by the Vatican."
+
+### 1302 papal bull (Unam Sanctam) as the first global trust declaration
+- **Claim:** In 1302, Pope Boniface VIII (KL says "Pope Benedict VIII" in one episode) issued the papal bull *Unam Sanctam*, the first trust declaration, naming himself trustee ("vicar of Christ") over a global estate trust with the world's people as beneficiaries. KL traces a franchise lineage from the Vatican Bank through the Bank for International Settlements, the IMF, the World Bank, and the Federal Reserve. He speculates baptismal certificates historically performed the same claiming function that birth certificates perform today.
+- **Support:** Cites *Unam Sanctam* (1302); franchise-chain narrative.
+- **Source:** [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "1302 Pope Benedict VIII made the first trust declaration" / "franchise of that as the, uh, IMF, the franchise of that as the world bank, the franchise of that as a federal reserve."
+- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "should be subject to the Roman pontiff" (re: *Unam Sanctam*)
+
+### Treaty of Peace 1783 split jurisdiction into air/sea/land
+- **Claim:** The 1783 Treaty of Paris was a three-party trust agreement (Vatican, England/Crown, United States) that split jurisdiction: the Vatican kept air/trust-law jurisdiction, England/Crown got sea jurisdiction (partly in exchange for policing international waters, since the U.S. had no navy), and the U.S. got land jurisdiction. American negotiators (Jay, Adams, Franklin) are described by KL as "esquires of the crown," and the Vatican's representative is listed first in the treaty's signatories.
+- **Support:** Named treaty signatories and structure.
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "the Pope and the Vatican are going to retain the air jurisdiction... we're going to give the sea jurisdiction to England, to the crown... the United States of America is going to get the land jurisdiction"
+- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "Why was the pope representative of the treaty?"
+
+### American Revolution/Constitution as a business/debt arrangement, not full independence
+- **Claim:** The Founders were rich, king-granted landholders financed by the Bank of England for trade; after the war, the 1783 Treaty of Paris restored their land but left America still deeply indebted (originally to France, transferred to the Bank of England), and the Constitution/first national bank were created specifically to formalize and "socialize" repayment of that debt — meaning America, in KL's telling, was never actually freed from the king's feudal lord, the Vatican.
+- **Support:** Debt figures ($6M→$18M by 1790); First Bank of the United States (1791, 20-year charter).
+- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "stopped short of declaring America free from the king's feudal lord, the Vatican" / "the Bank of England had bought off the debt from the Bank of France"
+
+### Roman law as the true foundation of modern law ("All roads lead to Rome")
+- **Claim:** Modern law traces through Roman law (Justinian's Corpus Juris, revised ~1220–1230 by jurist Accursius into what became Corpus Juris Secundum), and the Vatican remains the ultimate controlling entity behind Western legal/governmental systems today — e.g., KL claims royal authority (Elizabeth II/Charles III) is conferred by the Archbishop representing the Catholic Church, "not from the people."
+- **Support:** Historical narrative; reference to a recent (~2023–24) Vatican directive moving Catholic-institution funds to the Vatican Bank, which KL connects to wealthy figures reportedly selling stocks around the same time as evidence of advance knowledge.
+- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "everything points back to Rome. All roads lead to Rome." / "They are the controlling entity, still to this day." / "It came from the Vatican again... Didn't come really from the people."
+
+### Treaty of Verona (1822) — suppression of representative government
+- **Claim:** Alarmed at America's example as a threat to their monarchical/global power system, European powers (led, per KL, by the Vatican, which "runs the city of London") secretly convened the Treaty of Verona, pledging in Article 1 to use "all their efforts" to destroy representative government wherever it existed and prevent it from spreading elsewhere.
+- **Support:** Quotes Article 1 of the treaty directly.
+- **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "the high contracting powers being convinced that the system of representative government" / "the Vatican really runs everything. They run the city of London."
+- **Source:** [12](../TXT/12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt) "put an end to the system of representative government in whatever country it may exist"
+
+### Jesuit/Vatican plot narrative behind the 14th Amendment and territorial conversion
+- **Claim:** Per what KL calls "the design of the Jesuit order" (a Counter-Reformation plot), the Vatican/"order" recognized Congress has limited power over states but unlimited power over territories (D.C., Guam, Puerto Rico), so the plan was to reduce the states to conquered territories under emergency war-powers military government while conferring a new corporate "U.S. citizenship" on private Americans.
+- **Support:** References to the Treaty of Trent and the Treaty of Verona; cites *Downes v. Bidwell* (1901) for the territorial-power distinction.
+- **Source:** [06](../TXT/06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt) "pursuant to the design of the Jesuit order, the counter reformation plot to overthrow all limited governments" / "why not plot to reduce the states to mere conquered territories to be temporarily ruled by an emergency war powers military government" / "a famous case called Downs versus Bidwell in 1901"
+
+### Ecclesiastical/canon law as the "highest law," basis of trust law
+- **Claim:** "Air jurisdiction"/trust law is ecclesiastical/canon law — "God's law" — the highest form of law on the planet, and Latin is used deliberately because Latin word meanings "never change" (unlike English, which is deliberately shifted to trick people, e.g., the word "gay" or "state").
+- **Support:** Claim that Latin remains the Vatican's official language for this reason; *Downs v. Bidwell* (1901) on expanding definitions of "state"/"person."
+- **Source:** [04](../TXT/04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt) "Trust law is God's law is ecclesiastical canon law." / "Now, Latin never changes."
 
 ---
 
 ## Critique of Other Teachers
 
-### David Strait and Ana von Reitz as controlled opposition
-- **Claim:** David Strait and Ana von Reitz are controlled opposition who lack trust-law knowledge. Strait's "American State National" license-plate process fails because he never argues citizenship jurisdiction or claims beneficiary status in court, and he misplaces assets in the wrong trust.
-- **Support:** KL cites the Chase Allen shooting, Strait's ex-wife court pleadings, and the deed-of-reconveyance error as evidence the process does not protect followers.
-- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "David Strait and on of on rights are controlled opposition"
-- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "David and Anna are definitely lacking in their trust knowledge"
-- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "Why doesn't David ever argue a citizenship status in court?"
-- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "if he doesn't know trust law, he doesn't know that he has to actually claim beneficiary status"
-- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "They try to invoke common law, which you can't do. Common law is illegal"
-- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "You can only be in one jurisdiction at a time"
+### David Strait and Ana von Reitz lack trust-law knowledge — and may be controlled opposition
+- **Claim:** KL's central diagnosis of why David Strait's ("American State National" license-plate/status process) and Ana von Reitz's (America's States Assembly) methods fail is that neither properly applies trust law: they never correctly claim an office (grantor/grantee/trustee/beneficiary) in their paperwork, never argue citizenship/personal jurisdiction in court, and cite federal statutory definitions (8 U.S.C. §1101(a)(21)) as their own "authority," which self-defeatingly re-plants the claimant in the very (Article 1/territorial) jurisdiction they're trying to leave. Elsewhere KL frames this less charitably, calling them "controlled opposition" who mix enough truth with enough deception to lead followers off the correct path and into legal jeopardy. He states he's open to a public debate with either of them (or Strait's associate Bobby Lawrence) but doesn't expect them to accept.
+- **Support:** Direct reading of Strait's deed-of-full-reconveyance and von Reitz's Declaration of Naturalization/Act of Expatriation/deed-of-reconveyance templates on screen; trust-law rule that only a grantor can convey title and the beneficiary cannot; requirement of "lawful species" of money as valid consideration for a conveyance (absent from both templates, per KL, making the conveyances null and void); one-jurisdiction-at-a-time argument against Strait's "one foot in land, one foot in sea, one foot in air" framing.
+- **Source:** [05](../TXT/05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt) "I am different than David. I am different than Anna and different in a lot of aspects." (relatively neutral framing; KL describes providing his 32-page amicus brief for use by students/followers associated with von Reitz's America's States Assembly)
+- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "David Strait and on of on rights are controlled opposition" / "you need to learn trust law because I think David and Anna are definitely lacking in their trust knowledge" / "he doesn't know trust law, he doesn't know that he has to actually claim beneficiary status of the trust" / "he's making a conveyance that is null and void because she's not identifying herself if she's the grantor" (re: von Reitz) / "When you cite eight U.S.C. 1101 21A and use as your authority the definition under that code... That's called double speak." / "You only have two legs, two feet, so you can't put three three in any of those situations." / "No, I would always do it. But I don't think they'll accept it regardless." (re: debate)
+- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "I again, I just don't think he's knowledgeable... they just don't want to learn about trust" / "they're claiming to be private, but they're using the public authority to do it, which you can't just can't do"
+- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "People like David Strait drive a truck without license or registration. Of course, he got arrested"
+
+> **Contradiction (internal to episode 07):** KL offers two different, not-fully-reconciled explanations for why Strait and von Reitz's methods fail. At one point he frames it purely as innocent incompetence: "I again, I just don't think he's knowledgeable" and "David and Anna are definitely lacking in their trust knowledge." At another point in the same episode he frames it as possible deliberate deception: "I think they're controlled opposition and I think that they're mixing in enough truth to be able to get through to people" and "either they're doing this maliciously or egotistically." He gestures at holding both views loosely ("I'm not saying they're dumb and stupid... Yes, I think it could be opposition") but does not clearly settle which explanation he actually holds.
+> Source: [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "you need to learn trust law because I think David and Anna are definitely lacking in their trust knowledge" vs. [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "I think they're controlled opposition and I think that they're mixing in enough truth to be able to get through to people" and "either they're doing this maliciously or egotistically"
+
+### Real-world case outcomes cited as proof the Strait/von Reitz processes fail
+- **Claim:** KL cites several outcomes as evidence that the Strait/von Reitz "state national"/citizenship-status process does not protect its practitioners as advertised: the 2018 fatal police shooting of 21-year-old Chase Allen in Utah after a traffic stop involving a self-made "American State National" plate; David Strait's own arrest and truck impoundment (no plates/registration/insurance); and the criminal conviction and failed five-claim appeal of Strait's ex-wife Bonnie (reckless-behavior conviction, five-year sentence), whom KL says lost in part because she hired an attorney rather than challenging in personam jurisdiction.
+- **Support:** Case narratives; procedural walkthrough of how officers establish jurisdiction at a traffic stop (running plates establishes jurisdiction over the vehicle; requesting license/registration/insurance establishes jurisdiction over the person) to argue driving without proper documentation as Strait's process teaches is legally unsound and dangerous, not just legally wrong.
+- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "the Chase Allen case in Utah, a shot that a 21-year-old did because he had made up a plate" / "he gets arrested. He's in his truck... no plates, no registration, no insurance, and they confiscate and seize his truck" / "Bonnie... Gets convicted of reckless behavior... They sentenced her to five years" / "the appeals court shuts down all five of her claims" / "He is basing all of his decisions on presumption of law... Everything he's doing, he's doing legally."
+
+### A doctor's cautionary tale from following von Reitz-adjacent guidance
+- **Claim:** KL describes a real doctor who, following guidance associated with a von Reitz student, wrote to his state medical board claiming he no longer needed a medical/business license after doing a "reconveyance," and consequently received a disciplinary-board letter threatening his livelihood — a cautionary example of stepping directly into commercial/statutory jurisdiction as a "private man" instead of interacting through a properly constructed artificial trust entity.
+- **Support:** Anecdote (unnamed doctor, described as a recent case KL says he's trying to help fix).
+- **Source:** [07](../TXT/07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt) "he had the power to write to the medical board... he doesn't have to have a medical license" / "he could step across the jurisdiction line, go into their jurisdiction and tell them what to do. And I'm telling you... you're going to get in big trouble."
+
+### Views on other gurus/movements more broadly
+- **Claim:** KL differentiates his approach from several other named figures/groups without uniformly endorsing or rejecting them: (1) David Wynn Miller/Russell Gould's "quantum grammar"/parse-syntax system — implies it doesn't work, noting practitioners "have gone to jail"; (2) Anna von Reitz/America's States Assembly — respects the volume of her research but says she wrongly believes there are no functioning Article 3 courts and pushes operating purely as a natural person outside the system, which he calls very difficult; (3) Ken Cousens/Gemstone University-style private membership associations (PMAs/PCAs) — says such groups do "almost exactly the same kind of stuff" he does (create an artificial trust entity) but apply it collectively, which he avoids because he believes group participation costs constitutional rights; acknowledges some such members have nonetheless obtained land patents and driven without licenses; (4) "Reign of Heaven" — noncommittal, questioning whether the group has ever actually gotten a claim before a court.
+- **Support:** Personal familiarity/anecdote for each; no case law.
+- **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "A lot of those guys have gone to jail. So if they had done right, they would have never set foot in a jail." / "She's thinking just the de facto is there, and she wants you to operate commerce as a natural person." / "He does almost exactly the same kind of stuff I do, but what they use is the private associations." / "Did they go to court? ... Where was the claim made is what I'm trying to get to." / "There's 20 ways to skin a cat easily in the system. There isn't just one way."
+
+### Recommends other teachers/resources for those not ready to go fully private
+- **Claim:** People who are not yet "private citizens" and are short on time facing a court problem should, per KL, use other teachers' resources — he names Al Pons or "Dr. Graves' law course" (jurisdictionary) — to fight from the U.S.-citizen side, since one "can't just jump into the private and expect to be an expert in winning court."
+- **Support:** Direct recommendation.
+- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "usually I recommend somebody like Al Pons or Dr. Graves law course" / "you can't just jump into the private and expect to be an expert in winning court"
+
+---
+
+## Personal Biography and Track Record
+
+### Personal motivation and practice history
+- **Claim:** KL states his personal motivation for pursuing this path was practical asset protection (he holds a professional license through his job and wanted to separate personal assets from potential court claims), not necessarily broader ideology, though he notes everyone's motivation differs. He describes roughly five years of "having everything correctly done," after many more years of prior study; a year spent writing trusts alongside ~30 other people nationally in various trust roles; having personally sued the government in 1994 and won before an Article 3 judge; and, in a separate episode, references cancer treatment as health context for a shorter/lighter episode.
+- **Support:** Autobiographical statements.
+- **Source:** [02](../TXT/02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt) "I did it because I have to have a license with the job I've held for years." / "Five years of having everything correctly done."
+- **Source:** [09](../TXT/09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt) "I've written over a thousand trust a thousand." (see also Trust Structure and Roles, above)
+- **Source:** [10](../TXT/10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt) "I sued the government in 1994...I won a lawsuit in Article III in front of an Article III judge. I know it can be done"
 
 ---
 
 ## Flagged Contradictions
 
-1. **Individual rights vs. group trust:** KL asserts that the Constitution grants *individual* rights and that joining a group causes one to lose constitutional rights ("socialism"), yet he simultaneously admits the Constitution is a "trust agreement for a group of people" and that the Founders acted collectively through the states. He resolves this by saying one must claim a *specific status* within the group, but the tension between "individual rights only" and "group trust" remains unresolved.
-   - Source: [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "the Constitution gave you individual rights, not group rights. And that's the whole problem with everything about the group is socialism. You lose your rights as soon as you form a group, your constitutional rights" vs [01](../TXT/01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt) "The states formed the union, not the people... Constitution is a trust agreement for a group of people. You are correct. You claim a certain status in that group"
+Roll-up of every contradiction/tension flagged inline above, for quick scanning:
+
+1. **Individual-only rights vs. group/hereditary trust membership** — KL insists rights are strictly individual and that forming a "group" (including hiring an attorney) forfeits constitutional rights, yet repeatedly describes the Constitution itself as a collective trust binding "We the People and posterity" — a hereditary beneficiary class no one personally contracts into. See "The Constitution as a Trust" (episodes 01, 04, 12).
+2. **"Citizen of the United States" as safe (pre-1933) vs. as the very status that forfeits the Bill of Rights** — episode 06 uses the identical phrase in two incompatible senses without clearly mapping which sense applies when. See "Two Citizenships."
+3. **Personally excluded from pre-1933 status by his own birth year vs. instructing that exact claim for himself/others elsewhere** — episode 03 (KL born 1975, says the pre-1933 claim "doesn't apply to me") vs. episodes 06 and 10 (KL uses/teaches the "pre-March 9th, 1933 private American national/citizen" declaration as his own standard remedy). See "Two Citizenships."
+4. **"System is constitutional/lawful" vs. "system is unconstitutional"** — episode 12 calls the entire 1933-onward regime lawful under the doctrine of necessity, then repeatedly calls specific features of that same regime "unconstitutional," with the jurisdictional caveat reconciling the two only sometimes stated. See "Trading with the Enemy Act / 1933 Emergency / Military Occupation."
+5. **Consent-based jurisdiction ("no authority without your contract") vs. presumption-of-guilt burden of proof** — episode 02 states government has no authority absent your contract, then cites *U.S. v. Slater* approvingly for the opposite default (defendant must prove non-citizenship; "guilty until proven otherwise"). See "Courts and Jurisdiction."
+6. **"No statute of limitations on fraud" (system is fraudulent) vs. professed voluntary allegiance to, and need to satisfy, that same system's courts** — episode 01. See "Remedies and Status Correction."
+7. **Escaping U.S.-citizen tax liability entirely vs. the DBA/trust "vessel" being built to keep operating within "the matrix"** — episode 09 states both that leaving U.S.-citizen status ends tax liability and that the DBA/trust exists precisely to operate within the public system rather than exit it. See "Taxation and Liability."
+8. **"No right to travel" (flat denial) vs. the entire remedy system being framed as restoring exactly that freedom** — episode 10. See "Remedies and Status Correction."
+9. **Strait/von Reitz's failures as innocent incompetence vs. as deliberate "controlled opposition" deception** — episode 07 offers both explanations without settling which one KL actually holds. See "Critique of Other Teachers."
+10. **"Automatic" beneficiary status (already true by virtue of being on the land) vs. an elaborate, multi-step, formal-paperwork prerequisite for that status to be recognized** — episode 05, a milder tension than the others, noted for completeness.
 
 ---
 
@@ -491,19 +653,20 @@ This document summarizes KL's legal claims, arguments, and positions across 13 R
 
 | Topic | Files |
 |-------|-------|
-| Two Governments / Two Jurisdictions | 02, 04, 10, 12 |
-| The Constitution as a Trust | 01, 04, 12 |
-| The 1871 Act and Second Constitutional Trust | 02, 04 |
-| Two Citizenships | 01, 02, 04, 05, 06, 10, 12 |
-| The Straw Man / Legal Fiction / Birth Certificate | 01, 02, 04, 05, 06, 09, 12 |
-| Trust Structure and Roles | 04, 05, 06, 07, 08, 09 |
+| Two Governments / Two Jurisdictions | 02, 04, 05, 06, 07, 10, 12 |
+| The Constitution as a Trust | 01, 02, 04, 05, 09, 12 |
+| The 1871 Act and Second Constitutional Trust | 02, 03, 04, 05, 10 |
+| Two Citizenships | 01, 02, 03, 04, 05, 06, 09, 10, 12 |
+| The Strawman / Legal Fiction / Birth Certificate | 01, 03, 04, 05, 06, 08, 09, 10, 12 |
+| Trust Structure and Roles | 03, 04, 05, 06, 07, 08, 09 |
 | Trading with the Enemy Act / 1933 Emergency / Military Occupation | 02, 04, 06, 10, 12 |
-| Money and Banking | 01, 04, 06, 07, 10, 12 |
-| Taxation and Liability | 01, 02, 04, 07, 09, 10, 12 |
-| Courts and Jurisdiction | 01, 04, 06, 07, 10, 12 |
-| Remedies and Status Correction | 01, 03, 04, 06, 08, 09, 12 |
-| Historical Control Mechanisms | 02, 04, 12 |
-| Critique of Other Teachers | 07 |
+| Money and Banking | 01, 04, 05, 06, 07, 10, 12 |
+| Taxation and Liability | 01, 02, 04, 06, 07, 09, 10, 12 |
+| Courts and Jurisdiction | 01, 02, 03, 04, 06, 07, 09, 10, 12 |
+| Remedies and Status Correction | 01, 02, 03, 04, 05, 06, 07, 08, 09, 10 |
+| Historical Control Mechanisms | 02, 04, 06, 12 |
+| Critique of Other Teachers | 05, 07, 09, 10 |
+| Personal Biography and Track Record | 02, 09, 10 |
 | 9/11 and the Jubilee | 04 |
 
-**Note:** Files 11 and 13 contain no KL dialogue; they are third-party narrations about Michio Kushi philosophy and do not address U.S. legal structure or KL's process.
+**Note on files 11 and 13:** Despite their titles ("Unlearning The LIES About American History w KL aka Mr. Beneficiary Lesson 6" and "He Cracked Every Layer of Reality: And Became a Target") suggesting KL content, both files were verified in full and contain **no KL dialogue, no Chris/RiceTVX interview framing, and no trust-law/legal-fiction/citizenship material whatsoever.** Both are unrelated third-party YouTube video essays about Michio Kushi, the macrobiotics teacher/philosopher — archival Kushi lecture clips narrated/analyzed by an outside voice, covering yin-yang cosmology, a meditation demonstration, and macrobiotic diet philosophy. Passages that superficially echo "legal fiction" language (e.g., "who wrote the constitution," nations as mental constructs) are explicitly framed as Kushi's spiritual/metaphysical teaching about delusion and non-ownership, not KL's trust-law argument. These two files are excluded from the topic analysis above; they appear to be a filename/metadata mismatch in the source project rather than genuine KL episodes.
