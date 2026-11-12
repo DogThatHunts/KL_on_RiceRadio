@@ -8,7 +8,7 @@ show and a separate project).
 
 ```
 transcripts/
-  TXT/          # 13 raw transcripts, timestamped, no explicit speaker tags
+  TXT/          # 14 raw transcripts, timestamped, no explicit speaker tags
   prompts/      # the two independent analysis passes run over TXT/
     summarize_KL_ideas.md    # topic-organized summary of KL's legal claims
     extract_citations.md     # legal/tax citation extraction
@@ -34,6 +34,12 @@ handful of ambiguous/unidentified references (e.g. *United States v.
 Slater*, *United States v. Austin Gary Cooper*, an unidentified
 "Proclamation 24") were deliberately left unresolved rather than guessed —
 tracked in that repo's `TBD_later.md`.
+
+File **00** ("Session 1 Part 1") was added later (2026-11-12), after the
+original 13-transcript scan/merge. Its two citations (one new — *Slaughterhouse
+Cases* — and one append to the existing *Dred Scott v. Sandford* record) are
+staged in a separate, not-yet-merged
+`~/Projects/citation-register/pending/KL_on_RiceRadio_2026-11-12.json`.
 
 ## Ideas summary
 

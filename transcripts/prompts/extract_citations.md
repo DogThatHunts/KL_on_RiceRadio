@@ -6,21 +6,22 @@ sources so they can be folded into the shared master register at
 
 ## Input
 
-All `.txt` files in `transcripts/TXT/` (13 transcripts total):
+All `.txt` files in `transcripts/TXT/` (14 transcripts total):
 
-1. `01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt`
-2. `02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt`
-3. `03_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 2_7c931bc4.txt`
-4. `04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt`
-5. `05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt`
-6. `06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt`
-7. `07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt`
-8. `08_20260805_The KEY To FREEDOM Is Education w Dr. KL Beneficiary _Lesson _4.5__c230ca00.txt`
-9. `09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt`
-10. `10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt`
-11. `11_20260806_Unlearning The LIES About American History w KL aka Mr. Beneficiary _Lesson _6__1185a92a.txt`
-12. `12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt`
-13. `13_20260805_He Cracked Every Layer of Reality_ And Became a Target_5d4f338d.txt`
+1. `00_20260804_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 1_e60951c3.txt`
+2. `01_20260805_STF_ Collateralizing America _History Lesson_ - KL Session 1 Part 2_4b397566.txt`
+3. `02_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 1_26119e47.txt`
+4. `03_20260805_STF_ How The Legal Fiction Trickery Occurs - KL Session 2 Part 2_7c931bc4.txt`
+5. `04_20260805_The Great Deception w Dr. KL Beneficiary _Lesson _1 2022__b63fd37b.txt`
+6. `05_20260805_Great Birth Certificate Deception w Dr. KL Beneficiary _Lesson _2 2022__c2c65fe9.txt`
+7. `06_20260805_Great Government Deception w Dr. KL Beneficiary _Lesson _3 2022__b4ee1f46.txt`
+8. `07_20260805_How To Avoid Legal Pitfalls _ Traps w Dr KL Beneficiary _Lesson _4 2023__c7c17559.txt`
+9. `08_20260805_The KEY To FREEDOM Is Education w Dr. KL Beneficiary _Lesson _4.5__c230ca00.txt`
+10. `09_20260805_Freedom USB Package Educational Tool Information_e54c732f.txt`
+11. `10_20260805_Oh You Were Finished_ Well Allow Me To Retort w KL aka Mr. Beneficiary _Lesson __57ff8eba.txt`
+12. `11_20260806_Unlearning The LIES About American History w KL aka Mr. Beneficiary _Lesson _6__1185a92a.txt`
+13. `12_20260806_All Roads Lead To Rome w KL aka Mr. Beneficiary _Lesson _7__65f827f4.txt`
+14. `13_20260805_He Cracked Every Layer of Reality_ And Became a Target_5d4f338d.txt`
 
 Attribute every citation to the transcript file and, where possible, the speaker
 who said it (KL is the primary educator/guest; Chris Rice is the host). The

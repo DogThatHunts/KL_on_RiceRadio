@@ -1,6 +1,6 @@
 # Citations sidecar — KL on RiceRadio (RiceTVX / Stranger Than Fiction)
 
-Extracted per `transcripts/prompts/extract_citations.md` from all 13 transcripts in
+Extracted per `transcripts/prompts/extract_citations.md` from all 14 transcripts in
 `transcripts/TXT/`. Cross-checked against `~/Projects/citation-register/register.json`
 (schema in that repo's `SCHEMA.md`) and `~/Projects/citation-register/TBD_later.md`.
 New citations (not previously in the register) were written to
@@ -10,7 +10,12 @@ register also got a `sources[]`-append entry in that same pending file (per the
 prompt's provenance note), so every citation below — new or existing — has a
 corresponding pending-file entry unless explicitly marked "not added" below.
 
-Files are referenced by their leading number (01–13); full names are listed in
+File **00** ("Session 1 Part 1") was added later (2026-11-12), after the original
+13-transcript scan/merge — its two citations (one new: *Slaughterhouse Cases*; one
+append: *Dred Scott v. Sandford*) are in a separate, not-yet-merged
+`~/Projects/citation-register/pending/KL_on_RiceRadio_2026-11-12.json`.
+
+Files are referenced by their leading number (00–13); full names are listed in
 `transcripts/prompts/extract_citations.md`. KL is the guest/educator throughout;
 Chris Rice (or another named co-host, e.g. on files 08–10) is the interviewer —
 citations below are consistently spoken by KL unless noted.
@@ -50,9 +55,11 @@ narrative, not case law or code.
 | <a id="hendrick-v-maryland"></a>Hendrick v. Maryland, 235 U.S. 610 (1915) | "Hendrick versus Maryland" | 02, 04 | https://supreme.justia.com/cases/federal/us/235/610/ | **Existing** — append source |
 | <a id="tashiro-v-jordan"></a>Tashiro v. Jordan, 201 Cal. 236 (1927) | "Sherrill v. Jordan" | 02 | https://www.courtlistener.com/opinion/3308546/tashiro-v-jordan/ | **Existing** — append source |
 | <a id="roe-v-wade"></a>Roe v. Wade | "Roe versus Wade situation" (general discussion, no cite given) | 10 | (existing register url) | **Existing** — append source |
+| <a id="dred-scott"></a>Dred Scott v. Sandford, 60 U.S. 393 (1857) | "the Red Scott decision" | 00 | https://supreme.justia.com/cases/federal/us/60/393/ | **Existing** — append source |
 | <a id="bevans"></a>**United States v. Bevans, 16 U.S. (3 Wheat.) 336 (1818)** | "U.S. versus Bevins" | 02, 04 | https://supreme.justia.com/cases/federal/us/16/336/ (not independently verified) | **NEW** |
 | <a id="us-v-anthony"></a>**United States v. Susan B. Anthony, 24 F. Cas. 829 (N.D.N.Y. 1873)** | "US versus Anthony" | 02, 04 | `[UNRESOLVED — needs manual verification]` | **NEW** |
 | <a id="swift-v-tyson"></a>**Swift v. Tyson, 41 U.S. (16 Pet.) 1 (1842)** | "Swift versus Tyson" | 06 | https://supreme.justia.com/cases/federal/us/41/1/ (not independently verified) | **NEW** |
+| <a id="slaughterhouse-cases"></a>**Slaughterhouse Cases, 83 U.S. (16 Wall.) 36 (1873)** | "the slaughterhouse cases" | 00, 02, 04, 06 | https://supreme.justia.com/cases/federal/us/83/36/ (not independently verified) | **NEW** |
 
 ### Flagged — known/ambiguous, deliberately NOT added to the pending file
 
@@ -215,7 +222,7 @@ occurrences reinforce rather than resolve that mismatch.
 
 | Category | Total distinct citations found | Already in register (source appended) | New (added to pending) | Flagged/unresolved (not added) |
 |---|---|---|---|---|
-| Cases | 33 | 24 | 3 | 6 (3 matching known TBD items, 3 with no name/cite) |
+| Cases | 35 | 25 | 4 | 6 (3 matching known TBD items, 3 with no name/cite) |
 | USC sections | 5 | 4 | 1 | 0 |
 | CFR sections | 0 | 0 | 0 | 0 |
 | Treasury Decisions | 0 | 0 | 0 | 0 |
@@ -226,10 +233,13 @@ occurrences reinforce rather than resolve that mismatch.
 | Foreign statutes | 2 | 1 | 1 | 0 |
 | Presidential Proclamations | 2 | 1 | 0 | 1 |
 | Secondary authorities | 2 | 1 | 1 | 0 |
-| **Total** | **63** | **46** | **10** | **7** |
+| **Total** | **65** | **47** | **11** | **7** |
 
 10 wholly new records were written to
 `~/Projects/citation-register/pending/KL_on_RiceRadio_2026-08-15.json`, along with
 36 `append_source` entries for citations already present in `register.json`
 (46 existing citations total, one — Roe v. Wade — carrying no per-row URL note
-above since it reuses the register's existing value verbatim).
+above since it reuses the register's existing value verbatim). File 00's two
+citations (one new, one append) are in the separate, not-yet-merged
+`KL_on_RiceRadio_2026-11-12.json` pending file noted above and are not reflected in
+those original counts — the totals in this table include them.

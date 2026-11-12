@@ -66,7 +66,7 @@ counts</a></li>
 id="citations-sidecar--kl-on-riceradio-ricetvx--stranger-than-fiction">Citations
 sidecar — KL on RiceRadio (RiceTVX / Stranger Than Fiction)</h1>
 <p>Extracted per <code>transcripts/prompts/extract_citations.md</code>
-from all 13 transcripts in <code>transcripts/TXT/</code>. Cross-checked
+from all 14 transcripts in <code>transcripts/TXT/</code>. Cross-checked
 against <code>~/Projects/citation-register/register.json</code> (schema
 in that repo's <code>SCHEMA.md</code>) and
 <code>~/Projects/citation-register/TBD_later.md</code>. New citations
@@ -78,7 +78,12 @@ citations that already existed in the register also got a
 prompt's provenance note), so every citation below — new or existing —
 has a corresponding pending-file entry unless explicitly marked "not
 added" below.</p>
-<p>Files are referenced by their leading number (01–13); full names are
+<p>File <strong>00</strong> ("Session 1 Part 1") was added later
+(2026-11-12), after the original 13-transcript scan/merge — its two
+citations (one new: <em>Slaughterhouse Cases</em>; one append: <em>Dred
+Scott v. Sandford</em>) are in a separate, not-yet-merged
+<code>~/Projects/citation-register/pending/KL_on_RiceRadio_2026-11-12.json</code>.</p>
+<p>Files are referenced by their leading number (00–13); full names are
 listed in <code>transcripts/prompts/extract_citations.md</code>. KL is
 the guest/educator throughout; Chris Rice (or another named co-host,
 e.g. on files 08–10) is the interviewer — citations below are
@@ -297,6 +302,14 @@ href="https://www.courtlistener.com/opinion/3308546/tashiro-v-jordan/">https://w
 <td>(existing register url)</td>
 <td><strong>Existing</strong> — append source</td>
 </tr>
+<tr id="dred-scott">
+<td>Dred Scott v. Sandford, 60 U.S. 393 (1857)</td>
+<td>"the Red Scott decision"</td>
+<td>00</td>
+<td><a
+href="https://supreme.justia.com/cases/federal/us/60/393/">https://supreme.justia.com/cases/federal/us/60/393/</a></td>
+<td><strong>Existing</strong> — append source</td>
+</tr>
 <tr id="bevans">
 <td><strong>United States v. Bevans, 16 U.S. (3 Wheat.) 336
 (1818)</strong></td>
@@ -321,6 +334,15 @@ href="https://supreme.justia.com/cases/federal/us/16/336/">https://supreme.justi
 <td>06</td>
 <td><a
 href="https://supreme.justia.com/cases/federal/us/41/1/">https://supreme.justia.com/cases/federal/us/41/1/</a>
+(not independently verified)</td>
+<td><strong>NEW</strong></td>
+</tr>
+<tr id="slaughterhouse-cases">
+<td><strong>Slaughterhouse Cases, 83 U.S. (16 Wall.) 36 (1873)</strong></td>
+<td>"the slaughterhouse cases"</td>
+<td>00, 02, 04, 06</td>
+<td><a
+href="https://supreme.justia.com/cases/federal/us/83/36/">https://supreme.justia.com/cases/federal/us/83/36/</a>
 (not independently verified)</td>
 <td><strong>NEW</strong></td>
 </tr>
@@ -754,9 +776,9 @@ project's occurrences reinforce rather than resolve that mismatch.</p>
 <tbody>
 <tr>
 <td>Cases</td>
-<td>33</td>
-<td>24</td>
-<td>3</td>
+<td>35</td>
+<td>25</td>
+<td>4</td>
 <td>6 (3 matching known TBD items, 3 with no name/cite)</td>
 </tr>
 <tr>
@@ -831,9 +853,9 @@ project's occurrences reinforce rather than resolve that mismatch.</p>
 </tr>
 <tr>
 <td><strong>Total</strong></td>
-<td><strong>63</strong></td>
-<td><strong>46</strong></td>
-<td><strong>10</strong></td>
+<td><strong>65</strong></td>
+<td><strong>47</strong></td>
+<td><strong>11</strong></td>
 <td><strong>7</strong></td>
 </tr>
 </tbody>
@@ -843,6 +865,10 @@ project's occurrences reinforce rather than resolve that mismatch.</p>
 along with 36 <code>append_source</code> entries for citations already
 present in <code>register.json</code> (46 existing citations total, one
 — Roe v. Wade — carrying no per-row URL note above since it reuses the
-register's existing value verbatim).</p>
+register's existing value verbatim). File 00's two citations (one new,
+one append) are in the separate, not-yet-merged
+<code>KL_on_RiceRadio_2026-11-12.json</code> pending file noted above and
+are not reflected in those original counts — the totals in this table
+include them.</p>
 </body>
 </html>
