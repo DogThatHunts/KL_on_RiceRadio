@@ -150,8 +150,14 @@ and commits happened in this single 2026-11-12 session.)
   repo). Verified via `curl` headers and a real browser screenshot.
 - Removed the "Source repository" and "KL_on_Crrow" links from the
   `index.html` footer paragraph per user request; left the `dave_champion`
-  link in place. Footer now just reads "Citations verified and merged
+  link in place. Footer briefly read "Citations verified and merged
   against a private, shared citation register also used by dave_champion."
+- User then asked to restore the original wording — footer now reads
+  "Source repository · citations verified and merged against a private,
+  shared citation register also used by KL_on_Crrow and dave_champion.",
+  but with "Source repository" and "KL_on_Crrow" as **plain text, not
+  links** (only `dave_champion` is still a hyperlink). This is the final
+  state.
 
 ## Still open
 
