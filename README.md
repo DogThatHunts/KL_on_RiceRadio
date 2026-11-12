@@ -35,7 +35,7 @@ Slater*, *United States v. Austin Gary Cooper*, an unidentified
 "Proclamation 24") were deliberately left unresolved rather than guessed —
 tracked in that repo's `TBD_later.md`.
 
-File **00** ("Session 1 Part 1") was added later (2026-11-12), after the
+File **01** ("Session 1 Part 1") was added later (2026-11-12), after the
 original 13-transcript scan/merge. Its two citations (one new — *Slaughterhouse
 Cases* — and one append to the existing *Dred Scott v. Sandford* record) are
 staged in a separate, not-yet-merged

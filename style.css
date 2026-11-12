@@ -119,15 +119,17 @@ hr {
     table-layout: fixed;
 }
 
-.av-table-wrap th:first-child,
-.av-table-wrap td:first-child {
+.av-table-wrap th:nth-child(1),
+.av-table-wrap td:nth-child(1),
+.av-table-wrap th:nth-child(2),
+.av-table-wrap td:nth-child(2) {
     width: 12%;
 }
 
 .av-table-wrap th:last-child,
 .av-table-wrap td:last-child {
     white-space: nowrap;
-    width: 88%;
+    width: 76%;
 }
 
 #TOC {
