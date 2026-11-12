@@ -172,7 +172,7 @@ transcripts.
 |---|---|---|---|---|
 | Trading with the Enemy Act | "TWEA," "section 5B"/"section 17" | 03, 04, 07, 11, 12 | (none on register record) | **Existing** — append source |
 | Emergency Banking Relief Act | "March 9th, 1933" | 05, 07, 11, 12 | (none on register record) | **Existing** — append source |
-| The Buck Act | "the Buck Act of 1940" | 11, 12 | (none on register record) | **Existing** — append source |
+| <a id="buck-act"></a>The Buck Act | "the Buck Act of 1940" | 11, 12 | (none on register record) | **Existing** — append source |
 | The War Powers Act, 1933 | "War Powers Act of March 9th, 1933" | 07, 11, 12 | https://www.everycrsreport.com/... (existing record; carries an explicit caveat that this is a popular/informal name, not a real Act of Congress) | **Existing** — append source |
 | **Federal Reserve Act of 1913** | "1913 Federal Reserve Act" | 12 | https://www.congress.gov/bill/63rd-congress/house-bill/7837 (not independently verified) | **NEW** |
 | **National Emergencies Act of 1976** | "back to 1976, Congress actually passed a law about national emergencies" | 12 | https://www.congress.gov/bill/94th-congress/house-bill/3884 (not independently verified) | **NEW** |
