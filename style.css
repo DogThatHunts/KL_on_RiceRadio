@@ -132,6 +132,10 @@ hr {
     width: 76%;
 }
 
+.av-table-wrap tbody tr:last-child td {
+    background: var(--bg-warm);
+}
+
 #TOC {
     background: var(--bg-warm);
     border: 1px solid var(--border);
