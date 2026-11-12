@@ -98,17 +98,36 @@ hr {
 
 .card p { color: var(--text-light); margin: 0.4rem 0 0; }
 
+.card ol {
+    margin: 0.6rem 0 0;
+    padding-left: 1.4rem;
+    color: var(--text);
+}
+
+.card ol li { margin-bottom: 0.6rem; }
+
+.card ol li:last-child { margin-bottom: 0; }
+
+.card ol strong { color: var(--accent-dark); }
+
 .av-table-wrap {
     overflow-x: auto;
 }
 
 .av-table-wrap table {
     margin: 1.2rem 0 0;
+    table-layout: fixed;
+}
+
+.av-table-wrap th:first-child,
+.av-table-wrap td:first-child {
+    width: 12%;
 }
 
 .av-table-wrap th:last-child,
 .av-table-wrap td:last-child {
     white-space: nowrap;
+    width: 88%;
 }
 
 #TOC {
