@@ -13,17 +13,21 @@ corresponding pending-file entry unless explicitly marked "not added" below.
 File **01** ("Session 1 Part 1") was added later (2026-11-12), after the original
 13-transcript scan/merge — its two citations (one new: *Slaughterhouse Cases*; one
 append: *Dred Scott v. Sandford*) are in a separate, not-yet-merged
-`~/Projects/citation-register/pending/KL_on_RiceRadio_2026-11-12.json`.
+`~/Projects/citation-register/pending/KL_on_RiceRadio_2026-11-12.json`. File **12**'s
+transcript was also replaced later (2026-11-13) — it had originally been paired with
+an unrelated third-party video's transcript by mistake; its citations (two new: the
+*Federal Reserve Act of 1913* and the *National Emergencies Act of 1976*; one new
+secondary authority: the *American Jural Society*; several appends to existing
+records) are in the same not-yet-merged pending file.
 
 Files are referenced by their leading number (01–14); full names are listed in
 `transcripts/prompts/extract_citations.md`. KL is the guest/educator throughout;
 Chris Rice (or another named co-host, e.g. on files 09–11) is the interviewer —
 citations below are consistently spoken by KL unless noted.
 
-Two of the 14 transcripts — **12** (Unlearning The LIES About American History) and
-**14** (He Cracked Every Layer of Reality) — contain **no legal/tax citations**; both
-appear to share the same short intro passage and otherwise cover historical/personal
-narrative, not case law or code.
+One of the 14 transcripts — **14** (He Cracked Every Layer of Reality) — contains
+**no legal/tax citations**; it is an unrelated third-party video essay, not a genuine
+KL episode (see the note in `KL-ideas-RiceRadio.md`).
 
 ---
 
@@ -54,7 +58,7 @@ narrative, not case law or code.
 | <a id="belmont-v-gulfport"></a>Belmont v. Town of Gulfport, 97 Fla. 688 (1929) | — | 03 | (none on file) | **Existing** — append source |
 | <a id="hendrick-v-maryland"></a>Hendrick v. Maryland, 235 U.S. 610 (1915) | "Hendrick versus Maryland" | 03, 05 | https://supreme.justia.com/cases/federal/us/235/610/ | **Existing** — append source |
 | <a id="tashiro-v-jordan"></a>Tashiro v. Jordan, 201 Cal. 236 (1927) | "Sherrill v. Jordan" | 03 | https://www.courtlistener.com/opinion/3308546/tashiro-v-jordan/ | **Existing** — append source |
-| <a id="roe-v-wade"></a>Roe v. Wade | "Roe versus Wade situation" (general discussion, no cite given) | 11 | (existing register url) | **Existing** — append source |
+| <a id="roe-v-wade"></a>Roe v. Wade | "Roe versus Wade situation" (general discussion, no cite given) | 11, 12 | (existing register url) | **Existing** — append source |
 | <a id="dred-scott"></a>Dred Scott v. Sandford, 60 U.S. 393 (1857) | "the Red Scott decision" | 01 | https://supreme.justia.com/cases/federal/us/60/393/ | **Existing** — append source |
 | <a id="bevans"></a>**United States v. Bevans, 16 U.S. (3 Wheat.) 336 (1818)** | "U.S. versus Bevins" | 03, 05 | https://supreme.justia.com/cases/federal/us/16/336/ (not independently verified) | **NEW** |
 | <a id="us-v-anthony"></a>**United States v. Susan B. Anthony, 24 F. Cas. 829 (N.D.N.Y. 1873)** | "US versus Anthony" | 03, 05 | `[UNRESOLVED — needs manual verification]` | **NEW** |
@@ -92,7 +96,9 @@ new pending-file entry (adding one would just duplicate an unresolved ambiguity)
   transcript (`[UNRESOLVED — needs manual verification]`).
 - **"U.S. Supreme Court case in 1907"** (right-to-travel) — file 11, "I know they
   bring up the U.S. Supreme Court case in 1907." No case name given.
-  `[UNRESOLVED]`.
+  `[UNRESOLVED]`. Recurs verbatim in file 12 ("I know they bring up the U.S. Supreme
+  Court case in 1907. But in 1907, we were in the Republic.") — same unidentified
+  case, no new disambiguating detail.
 - **"U.S. Supreme Court Rule 48.2"** — file 04, "that's u.s supreme court rule 48.2
   non-territory it's on the land jurisdiction." Unclear what this refers to (not a
   standard SCOTUS rule number in the usual numbering); possibly a garbled reference
@@ -101,7 +107,13 @@ new pending-file entry (adding one would just duplicate an unresolved ambiguity)
   Proclamation 24, it's approved and confirmed now extends to all states and
   territories," part of a numbered "change five / change six" recitation. Distinct
   from Proclamation 2040 (below); no further identifying detail given.
-  `[UNRESOLVED]`.
+  `[UNRESOLVED]`. File 12 (reviewing the same exhibits on screen) suggests this may
+  simply be KL's own mislabeling of Proclamation 2040 rather than a distinct document:
+  "go to exhibit A, which is proclamation 24, which happened on Thursday. So Thursday
+  he brings forth proclamation 2040" — he names "24" and "2040" for what appears to be
+  the same March 9, 1933 Thursday proclamation in the same breath, immediately before
+  quoting 2040's actual text. Kept `[UNRESOLVED]` rather than merged, since he never
+  explicitly equates the two numbers and the transcript doesn't show the exhibit image.
 
 ---
 
@@ -158,10 +170,12 @@ transcripts.
 
 | Citation | As-spoken | Files | URL | Register status |
 |---|---|---|---|---|
-| Trading with the Enemy Act | "TWEA," "section 5B"/"section 17" | 03, 04, 07, 11 | (none on register record) | **Existing** — append source |
-| Emergency Banking Relief Act | "March 9th, 1933" | 05, 07, 11 | (none on register record) | **Existing** — append source |
-| The Buck Act | "the Buck Act of 1940" | 11 | (none on register record) | **Existing** — append source |
-| The War Powers Act, 1933 | "War Powers Act of March 9th, 1933" | 07, 11 | https://www.everycrsreport.com/... (existing record; carries an explicit caveat that this is a popular/informal name, not a real Act of Congress) | **Existing** — append source |
+| Trading with the Enemy Act | "TWEA," "section 5B"/"section 17" | 03, 04, 07, 11, 12 | (none on register record) | **Existing** — append source |
+| Emergency Banking Relief Act | "March 9th, 1933" | 05, 07, 11, 12 | (none on register record) | **Existing** — append source |
+| The Buck Act | "the Buck Act of 1940" | 11, 12 | (none on register record) | **Existing** — append source |
+| The War Powers Act, 1933 | "War Powers Act of March 9th, 1933" | 07, 11, 12 | https://www.everycrsreport.com/... (existing record; carries an explicit caveat that this is a popular/informal name, not a real Act of Congress) | **Existing** — append source |
+| **Federal Reserve Act of 1913** | "1913 Federal Reserve Act" | 12 | https://www.congress.gov/bill/63rd-congress/house-bill/7837 (not independently verified) | **NEW** |
+| **National Emergencies Act of 1976** | "back to 1976, Congress actually passed a law about national emergencies" | 12 | https://www.congress.gov/bill/94th-congress/house-bill/3884 (not independently verified) | **NEW** |
 
 ---
 
@@ -170,7 +184,7 @@ transcripts.
 | Citation | As-spoken | Files | URL | Register status |
 |---|---|---|---|---|
 | Cestui Que Vie Act (1666, England) | "the Sessicae V Act of 1666" (05); "SESTA-KV, act of 1666" (06) — both very garbled | 05, 06 | (none on register record) | **Existing** — append source |
-| **Judicature Act of 1875** (Supreme Court of Judicature Act 1875, England) | "what we call the Judicature Act of 1875" — merging English law/equity courts | 11 | `[UNRESOLVED — needs manual verification]` | **NEW** |
+| **Judicature Act of 1875** (Supreme Court of Judicature Act 1875, England) | "what we call the Judicature Act of 1875" — merging English law/equity courts | 11, 12 | `[UNRESOLVED — needs manual verification]` | **NEW** |
 
 ---
 
@@ -178,7 +192,7 @@ transcripts.
 
 | Citation | Files | URL | Register status |
 |---|---|---|---|
-| Proclamation 2040 | 07 — "Congress gave him the power. It's called Proclamation 2040," re: FDR's banking-emergency authority | (none on register record) | **Existing** — append source |
+| Proclamation 2040 | 07, 12 — "Congress gave him the power. It's called Proclamation 2040," re: FDR's banking-emergency authority; file 12 reads the proclamation text aloud from an on-screen exhibit | (none on register record) | **Existing** — append source |
 
 (See also the flagged, unresolved "Proclamation 24" reference in file 11, under
 Cases > "Flagged — unresolved, no name/cite given" above — kept separate since it's
@@ -192,6 +206,7 @@ a distinct, unidentified numbering from Proclamation 2040.)
 |---|---|---|---|
 | Black's Law Dictionary | 04, 08, 10 (10 specifies "second edition" for the "business trust" definition) | https://thelawdictionary.org/ | **Existing** — append source |
 | **Webster's Dictionary** | 04, 05, 13 — no edition specified in any occurrence | `[UNRESOLVED — no single canonical online edition to resolve to without more specificity]` | **NEW** |
+| <a id="american-jural-society"></a>**American Jural Society** (journal), May 7, 1996 | "in the American Jural Society, May 7th, 1996, the judge admits to the War Powers Court" — re: Judge Carol Wardell's gold-fringed-flag admission in a traffic case | 07, 12 | `[UNRESOLVED — needs manual verification; no online record located]` | **NEW** |
 
 No IRS/Treasury secondary documents (IRM, Cumulative Bulletin, etc.) were cited by
 name anywhere in the 14 transcripts.
@@ -229,17 +244,18 @@ occurrences reinforce rather than resolve that mismatch.
 | Constitution (bare) | 9 | 6 | 3 | 0 |
 | Constitution clauses | 5 | 5 | 0 | 0 |
 | IRS forms | 1 | 0 | 1 | 0 |
-| Acts of Congress | 4 | 4 | 0 | 0 |
+| Acts of Congress | 6 | 4 | 2 | 0 |
 | Foreign statutes | 2 | 1 | 1 | 0 |
 | Presidential Proclamations | 2 | 1 | 0 | 1 |
-| Secondary authorities | 2 | 1 | 1 | 0 |
-| **Total** | **65** | **47** | **11** | **7** |
+| Secondary authorities | 3 | 1 | 2 | 0 |
+| **Total** | **68** | **47** | **14** | **7** |
 
 10 wholly new records were written to
 `~/Projects/citation-register/pending/KL_on_RiceRadio_2026-08-15.json`, along with
 36 `append_source` entries for citations already present in `register.json`
 (46 existing citations total, one — Roe v. Wade — carrying no per-row URL note
 above since it reuses the register's existing value verbatim). File 01's two
-citations (one new, one append) are in the separate, not-yet-merged
+citations and file 12's four citations (one append — Roe v. Wade — and three new:
+two Acts of Congress, one secondary authority) are in the separate, not-yet-merged
 `KL_on_RiceRadio_2026-11-12.json` pending file noted above and are not reflected in
 those original counts — the totals in this table include them.

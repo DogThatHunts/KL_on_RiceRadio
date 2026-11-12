@@ -41,6 +41,14 @@ Cases* — and one append to the existing *Dred Scott v. Sandford* record) are
 staged in a separate, not-yet-merged
 `~/Projects/citation-register/pending/KL_on_RiceRadio_2026-11-12.json`.
 
+File **12** ("Unlearning The LIES About American History," Lesson 6) had
+originally been paired with the wrong transcript (an unrelated third-party
+video); the correct transcript was substituted later (2026-11-13). Its
+citations (two new — the *Federal Reserve Act of 1913* and the *National
+Emergencies Act of 1976* — one new secondary authority — the *American Jural
+Society* — and several appends to existing records) are staged in the same
+pending file.
+
 ## Ideas summary
 
 `transcripts/summaries/KL-ideas-RiceRadio.md` is independent of the citation
