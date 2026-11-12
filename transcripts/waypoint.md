@@ -1,6 +1,10 @@
 # Waypoint: KL_on_RiceRadio
 
-## What was done (2026-11-12 to 2026-11-14 session)
+## What was done (2026-11-12 session)
+
+(Note: a few passages below refer to in-content dates like "2026-11-13" for
+when a transcript was recorded/fixed per the docs' own text — all actual work
+and commits happened in this single 2026-11-12 session.)
 
 ### Site published, citation anchors added
 
@@ -120,6 +124,34 @@
   `register.json` — that's a separate human-reviewed step per that repo's
   own convention (see `KL_on_Crrow/transcripts/waypoint.md` for what that
   review-and-merge pass looks like when it's time to do it here).
+
+### Small follow-ups (same session, after the above)
+
+- Linked all 4 "Buck Act (1940)" mentions in `KL-ideas-RiceRadio.md`/`.html`
+  (Claim/Support lines only, not verbatim quotes) to a new `#buck-act` anchor
+  added to the Acts of Congress table in `citations-sidecar.md`/`.html`.
+- User asked to rename "Adam Kokesh" to "Adam Koresh" in the ideas summary —
+  **declined and left unchanged**: the source transcript (file 05) actually
+  says "Adam Kokesh" (a real libertarian activist, AR-15/open-carry arrest
+  anecdote); "Koresh" would misrepresent the transcript and likely confuses
+  him with the unrelated David Koresh. User agreed to leave it as-is when
+  asked.
+- User asked whether GitHub links in `index.html` would work for third
+  parties or only because they're logged in — confirmed via an
+  unauthenticated `curl` (checked the embedded `"public":true` JSON, not
+  just the HTTP status) that the repo is genuinely public; any visitor sees
+  the same GitHub blob page.
+- User then clarified they didn't want visitors able to browse the rest of
+  the repo from a transcript link, just see that one file's content. Switched
+  all 13 Transcript-column links in `index.html` from
+  `github.com/.../blob/main/...` (full GitHub UI, browsable) to
+  `raw.githubusercontent.com/.../main/...` (serves `content-type: text/plain`,
+  renders inline with no GitHub chrome and no path into the rest of the
+  repo). Verified via `curl` headers and a real browser screenshot.
+- Removed the "Source repository" and "KL_on_Crrow" links from the
+  `index.html` footer paragraph per user request; left the `dave_champion`
+  link in place. Footer now just reads "Citations verified and merged
+  against a private, shared citation register also used by dave_champion."
 
 ## Still open
 
