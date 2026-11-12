@@ -26,33 +26,33 @@ narrative, not case law or code.
 
 | Citation | As-spoken (if different) | Files | URL | Register status |
 |---|---|---|---|---|
-| Brushaber v. Union Pacific Railroad, 240 U.S. 1 (1916) | "Bruce Shaver v. Union Pacific" | 02 | https://supreme.justia.com/cases/federal/us/240/1/ | **Existing** — append source |
-| Pollock v. Farmers' Loan & Trust Company, 157 U.S. 429 (1895) | "Pollock/Pollack v. Farmer" | 02, 04, 09 | https://supreme.justia.com/cases/federal/us/157/429/ | **Existing** — append source |
-| Hale v. Henkel, 201 U.S. 43 (1906) | — | 02, 04, 06 | https://supreme.justia.com/cases/federal/us/201/43/ | **Existing** — append source |
-| Downes v. Bidwell, 182 U.S. 244 (1901) | "Downs versus Bidwell" | 02, 06 | https://supreme.justia.com/cases/federal/us/182/244/ | **Existing** — append source |
-| United States v. Cruikshank, 92 U.S. 542 (1875) | "United States versus crushing" | 02 | https://supreme.justia.com/cases/federal/us/92/542/ | **Existing** — append source |
-| Maxwell v. Dow, 176 U.S. 581 (1900) | — | 02 | https://supreme.justia.com/cases/federal/us/176/581/ | **Existing** — append source |
-| Twining v. New Jersey, 211 U.S. 78 (1908) | "Twain v. New Jersey" (02); "20 versus New Jersey" (04) | 02, 04 | https://supreme.justia.com/cases/federal/us/211/78/ | **Existing** — append source |
-| Juilliard v. Greenman, 110 U.S. 421 (1884) | — | 02 | https://supreme.justia.com/cases/federal/us/110/421/ | **Existing** — append source |
-| Santa Clara County v. Southern Pacific Railroad Co., 118 U.S. 394 (1886) | — | 02 | https://supreme.justia.com/cases/federal/us/118/394/ | **Existing** — append source |
-| Caha v. United States, 152 U.S. 211 (1894) | "Caja versus United States" | 02, 04 | https://supreme.justia.com/cases/federal/us/152/211/ | **Existing** — append source |
-| Colgate v. Harvey, 296 U.S. 404 (1935) | — | 02, 04 | https://supreme.justia.com/cases/federal/us/296/404/ | **Existing** — append source |
-| Wheeling Steel Corp. v. Fox, 298 U.S. 193 (1936) | — | 02, 04 | https://supreme.justia.com/cases/federal/us/298/193/ | **Existing** — append source |
-| Valentine v. United States ex rel. Neidecker, 299 U.S. 5 (1936) | "U.S. v. Valentine" | 02 | https://supreme.justia.com/cases/federal/us/299/5/ | **Existing** — append source |
-| Hague v. Committee for Industrial Organization, 307 U.S. 496 (1939) | "Haig v. CIO" (02); "Hague versus CIO" (04) | 02, 04 | https://supreme.justia.com/cases/federal/us/307/496/ | **Existing** — append source |
-| Hooven & Allison Co. v. Evatt, 324 U.S. 652 (1945) | "Hoove and Allison v. Abbott" (02); "Evett" (04) | 02, 04 | https://supreme.justia.com/cases/federal/us/324/652/ | **Existing** — append source |
-| Miloszewski v. Sears, Roebuck & Co., 346 F. Supp. 119 (1972) | "Milosevic/Miloszewski v. Sears and Roebuck" | 02, 04 | https://law.justia.com/cases/federal/district-courts/FSupp/346/119/1879037/ | **Existing** — append source |
-| Jones v. Temmer, 829 F. Supp. 1226 (1993) | "Jones v. Temer" | 02, 04 | https://law.justia.com/cases/federal/district-courts/FSupp/829/1226/1876934/ | **Existing** — append source |
-| Puerto Rico v. Sánchez Valle, 579 U.S. 59 (2016) | "Puerto Rico v. Sanchez Valley," dated "2015" in both files (same discrepancy already on the register record) | 02, 04 | https://supreme.justia.com/cases/federal/us/579/15-108/ | **Existing** — append source |
-| Ortiz v. United States, 585 U.S. 427 (2018) | "U.S. v. Ortiz"/"US versus Ortiz" | 02, 03, 04, 06 | https://supreme.justia.com/cases/federal/us/585/16-1423/ | **Existing** — append source |
-| Cohens v. Virginia, 19 U.S. (6 Wheat.) 264 (1821) | "Collins versus Virginia" (02, mis-transcription); "Cohen's versus Virginia" (04) | 02, 04 | https://supreme.justia.com/cases/federal/us/19/264/ | **Existing** — append source |
-| Belmont v. Town of Gulfport, 97 Fla. 688 (1929) | — | 02 | (none on file) | **Existing** — append source |
-| Hendrick v. Maryland, 235 U.S. 610 (1915) | "Hendrick versus Maryland" | 02, 04 | https://supreme.justia.com/cases/federal/us/235/610/ | **Existing** — append source |
-| Tashiro v. Jordan, 201 Cal. 236 (1927) | "Sherrill v. Jordan" | 02 | https://www.courtlistener.com/opinion/3308546/tashiro-v-jordan/ | **Existing** — append source |
-| Roe v. Wade | "Roe versus Wade situation" (general discussion, no cite given) | 10 | (existing register url) | **Existing** — append source |
-| **United States v. Bevans, 16 U.S. (3 Wheat.) 336 (1818)** | "U.S. versus Bevins" | 02, 04 | https://supreme.justia.com/cases/federal/us/16/336/ (not independently verified) | **NEW** |
-| **United States v. Susan B. Anthony, 24 F. Cas. 829 (N.D.N.Y. 1873)** | "US versus Anthony" | 02, 04 | `[UNRESOLVED — needs manual verification]` | **NEW** |
-| **Swift v. Tyson, 41 U.S. (16 Pet.) 1 (1842)** | "Swift versus Tyson" | 06 | https://supreme.justia.com/cases/federal/us/41/1/ (not independently verified) | **NEW** |
+| <a id="brushaber-v-union-pacific"></a>Brushaber v. Union Pacific Railroad, 240 U.S. 1 (1916) | "Bruce Shaver v. Union Pacific" | 02 | https://supreme.justia.com/cases/federal/us/240/1/ | **Existing** — append source |
+| <a id="pollock-v-farmers-loan"></a>Pollock v. Farmers' Loan & Trust Company, 157 U.S. 429 (1895) | "Pollock/Pollack v. Farmer" | 02, 04, 09 | https://supreme.justia.com/cases/federal/us/157/429/ | **Existing** — append source |
+| <a id="hale-v-henkel"></a>Hale v. Henkel, 201 U.S. 43 (1906) | — | 02, 04, 06 | https://supreme.justia.com/cases/federal/us/201/43/ | **Existing** — append source |
+| <a id="downes-v-bidwell"></a>Downes v. Bidwell, 182 U.S. 244 (1901) | "Downs versus Bidwell" | 02, 06 | https://supreme.justia.com/cases/federal/us/182/244/ | **Existing** — append source |
+| <a id="us-v-cruikshank"></a>United States v. Cruikshank, 92 U.S. 542 (1875) | "United States versus crushing" | 02 | https://supreme.justia.com/cases/federal/us/92/542/ | **Existing** — append source |
+| <a id="maxwell-v-dow"></a>Maxwell v. Dow, 176 U.S. 581 (1900) | — | 02 | https://supreme.justia.com/cases/federal/us/176/581/ | **Existing** — append source |
+| <a id="twining-v-new-jersey"></a>Twining v. New Jersey, 211 U.S. 78 (1908) | "Twain v. New Jersey" (02); "20 versus New Jersey" (04) | 02, 04 | https://supreme.justia.com/cases/federal/us/211/78/ | **Existing** — append source |
+| <a id="juilliard-v-greenman"></a>Juilliard v. Greenman, 110 U.S. 421 (1884) | — | 02 | https://supreme.justia.com/cases/federal/us/110/421/ | **Existing** — append source |
+| <a id="santa-clara-v-southern-pacific"></a>Santa Clara County v. Southern Pacific Railroad Co., 118 U.S. 394 (1886) | — | 02 | https://supreme.justia.com/cases/federal/us/118/394/ | **Existing** — append source |
+| <a id="caha-v-us"></a>Caha v. United States, 152 U.S. 211 (1894) | "Caja versus United States" | 02, 04 | https://supreme.justia.com/cases/federal/us/152/211/ | **Existing** — append source |
+| <a id="colgate-v-harvey"></a>Colgate v. Harvey, 296 U.S. 404 (1935) | — | 02, 04 | https://supreme.justia.com/cases/federal/us/296/404/ | **Existing** — append source |
+| <a id="wheeling-steel-v-fox"></a>Wheeling Steel Corp. v. Fox, 298 U.S. 193 (1936) | — | 02, 04 | https://supreme.justia.com/cases/federal/us/298/193/ | **Existing** — append source |
+| <a id="valentine-v-us"></a>Valentine v. United States ex rel. Neidecker, 299 U.S. 5 (1936) | "U.S. v. Valentine" | 02 | https://supreme.justia.com/cases/federal/us/299/5/ | **Existing** — append source |
+| <a id="hague-v-cio"></a>Hague v. Committee for Industrial Organization, 307 U.S. 496 (1939) | "Haig v. CIO" (02); "Hague versus CIO" (04) | 02, 04 | https://supreme.justia.com/cases/federal/us/307/496/ | **Existing** — append source |
+| <a id="hooven-v-evatt"></a>Hooven & Allison Co. v. Evatt, 324 U.S. 652 (1945) | "Hoove and Allison v. Abbott" (02); "Evett" (04) | 02, 04 | https://supreme.justia.com/cases/federal/us/324/652/ | **Existing** — append source |
+| <a id="miloszewski-v-sears"></a>Miloszewski v. Sears, Roebuck & Co., 346 F. Supp. 119 (1972) | "Milosevic/Miloszewski v. Sears and Roebuck" | 02, 04 | https://law.justia.com/cases/federal/district-courts/FSupp/346/119/1879037/ | **Existing** — append source |
+| <a id="jones-v-temmer"></a>Jones v. Temmer, 829 F. Supp. 1226 (1993) | "Jones v. Temer" | 02, 04 | https://law.justia.com/cases/federal/district-courts/FSupp/829/1226/1876934/ | **Existing** — append source |
+| <a id="puerto-rico-v-sanchez-valle"></a>Puerto Rico v. Sánchez Valle, 579 U.S. 59 (2016) | "Puerto Rico v. Sanchez Valley," dated "2015" in both files (same discrepancy already on the register record) | 02, 04 | https://supreme.justia.com/cases/federal/us/579/15-108/ | **Existing** — append source |
+| <a id="ortiz-v-us"></a>Ortiz v. United States, 585 U.S. 427 (2018) | "U.S. v. Ortiz"/"US versus Ortiz" | 02, 03, 04, 06 | https://supreme.justia.com/cases/federal/us/585/16-1423/ | **Existing** — append source |
+| <a id="cohens-v-virginia"></a>Cohens v. Virginia, 19 U.S. (6 Wheat.) 264 (1821) | "Collins versus Virginia" (02, mis-transcription); "Cohen's versus Virginia" (04) | 02, 04 | https://supreme.justia.com/cases/federal/us/19/264/ | **Existing** — append source |
+| <a id="belmont-v-gulfport"></a>Belmont v. Town of Gulfport, 97 Fla. 688 (1929) | — | 02 | (none on file) | **Existing** — append source |
+| <a id="hendrick-v-maryland"></a>Hendrick v. Maryland, 235 U.S. 610 (1915) | "Hendrick versus Maryland" | 02, 04 | https://supreme.justia.com/cases/federal/us/235/610/ | **Existing** — append source |
+| <a id="tashiro-v-jordan"></a>Tashiro v. Jordan, 201 Cal. 236 (1927) | "Sherrill v. Jordan" | 02 | https://www.courtlistener.com/opinion/3308546/tashiro-v-jordan/ | **Existing** — append source |
+| <a id="roe-v-wade"></a>Roe v. Wade | "Roe versus Wade situation" (general discussion, no cite given) | 10 | (existing register url) | **Existing** — append source |
+| <a id="bevans"></a>**United States v. Bevans, 16 U.S. (3 Wheat.) 336 (1818)** | "U.S. versus Bevins" | 02, 04 | https://supreme.justia.com/cases/federal/us/16/336/ (not independently verified) | **NEW** |
+| <a id="us-v-anthony"></a>**United States v. Susan B. Anthony, 24 F. Cas. 829 (N.D.N.Y. 1873)** | "US versus Anthony" | 02, 04 | `[UNRESOLVED — needs manual verification]` | **NEW** |
+| <a id="swift-v-tyson"></a>**Swift v. Tyson, 41 U.S. (16 Pet.) 1 (1842)** | "Swift versus Tyson" | 06 | https://supreme.justia.com/cases/federal/us/41/1/ (not independently verified) | **NEW** |
 
 ### Flagged — known/ambiguous, deliberately NOT added to the pending file
 
