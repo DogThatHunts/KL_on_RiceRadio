@@ -55,3 +55,28 @@ pending file.
 pass — it summarizes KL's legal claims and arguments by topic, flags
 contradictions inline, and does not attempt to verify or resolve any
 citation KL mentions (that's the citation pass's job).
+
+## Website
+
+Published via GitHub Pages at <https://dogthathunts.github.io/KL_on_RiceRadio/>,
+built from `index.html`, `style.css`, and the HTML renders of the two summary
+docs in `summaries_html/` (`kl-ideas.html`, `citations-sidecar.html`) — these
+HTML files are hand-maintained alongside their `.md` sources, not
+auto-generated, so any edit to a summary doc needs the matching HTML edit too.
+
+`index.html` has three cards (links to the ideas summary, the citation
+sidecar, and an inline "Core Worldview" overview) plus a "Source Videos &
+Transcripts" table with one row per episode (01–13; file 14 is excluded, see
+below) and three columns:
+- **Transcript** — links to the raw `.txt` in this repo.
+- **Summary** — links to that episode's page on the separate
+  `transcript-summaries` site (`https://dogthathunts.github.io/transcript-summaries/`),
+  sourced from the project owner's "Transcription Queue" Google Sheet (master
+  "Queue" tab, column AA).
+- **Episode (Odysee)** — links to the original upload.
+
+File **14** ("He Cracked Every Layer of Reality") is excluded from the table
+entirely — it's a filename/metadata mismatch (an unrelated third-party Michio
+Kushi video essay, not a real KL episode) with no Odysee source link to pair
+it with. See the note in `KL-ideas-RiceRadio.md` for detail. (File 12 had the
+same problem but was fixed 2026-11-13 — see the "Citations" section above.)

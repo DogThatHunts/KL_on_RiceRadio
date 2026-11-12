@@ -43,7 +43,7 @@ Call these out **inline, at the point of discovery** — not only in a final app
 
 ## Output
 
-**One single monolithic Markdown file** — `transcripts/summaries/KL-ideas.md` — covering all 13 transcripts, organized by topic per "What to produce" above, with:
+**One single monolithic Markdown file** — `transcripts/summaries/KL-ideas-RiceRadio.md` — covering all 14 transcripts, organized by topic per "What to produce" above, with:
 
 - A short intro noting the scope and source of the transcripts.
 - The topic sections with claims, links/quotes, and inline contradiction flags.

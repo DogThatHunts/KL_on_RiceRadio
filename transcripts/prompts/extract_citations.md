@@ -59,7 +59,7 @@ verification rather than guessing.
 
 ### 1. Human-readable sidecar (for this project)
 
-`transcripts/summaries/citations-sidecar.md` — one combined file across all 13
+`transcripts/summaries/citations-sidecar.md` — one combined file across all 14
 transcripts, grouped by category (cases, USC sections, CFR sections, Treasury
 Decisions, constitution, IRS forms, acts/EOs, secondary authorities), each entry
 showing:
