@@ -160,8 +160,20 @@ and commits happened in this single 2026-11-12 session.)
 - User then asked to also remove the `dave_champion` hyperlink in the
   footer, and the `KL_on_Crrow` hyperlink in the intro paragraph (the one
   pointing at `github.com/DogThatHunts/KL_on_Crrow`). Both are now plain
-  text everywhere in `index.html`; no links to either project remain. This
-  is the final state.
+  text everywhere in `index.html`; no links to either project remain.
+  Committed as `6c7db6e` and pushed to `main`.
+- User reported both names still looked linked on the live GitHub Pages
+  site after the push. Re-fetched the live HTML via `curl` and confirmed no
+  `<a>` tags around either name server-side — the deployed page already
+  matched the repo. Most likely explanation: GitHub Pages CDN/browser
+  caching lag right after a push; told user to hard-refresh / try
+  incognito. Not re-verified after that suggestion — if the live page
+  still shows links in a future session, re-check with `curl` first before
+  assuming the source needs another edit.
+- **Session parked for the night here.** This is the final state: both
+  links removed in the repo and confirmed absent from the live HTML
+  response; only open question was caching on the user's end, not a code
+  issue.
 
 ## Still open
 
