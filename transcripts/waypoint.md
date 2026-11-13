@@ -156,8 +156,12 @@ and commits happened in this single 2026-11-12 session.)
   "Source repository · citations verified and merged against a private,
   shared citation register also used by KL_on_Crrow and dave_champion.",
   but with "Source repository" and "KL_on_Crrow" as **plain text, not
-  links** (only `dave_champion` is still a hyperlink). This is the final
-  state.
+  links** (only `dave_champion` is still a hyperlink).
+- User then asked to also remove the `dave_champion` hyperlink in the
+  footer, and the `KL_on_Crrow` hyperlink in the intro paragraph (the one
+  pointing at `github.com/DogThatHunts/KL_on_Crrow`). Both are now plain
+  text everywhere in `index.html`; no links to either project remain. This
+  is the final state.
 
 ## Still open
 
